@@ -353,3 +353,7 @@
 [18:37:57] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
 [18:37:57] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
 [18:37:57] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
+[18:49:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[18:49:04] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[18:49:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[18:49:09] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
