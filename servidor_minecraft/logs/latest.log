@@ -374,3 +374,7 @@
 [19:09:44] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
 [19:09:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sarh_a180_23's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [19:09:44] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:55161] logged in with entity id 3146 at ([world]6.403201797321242, 84.5, -2.8694235213871515)
+[19:33:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a title
+[19:33:54] [Server thread/INFO]: Added tag 'anim.ruleta.roja' to Sarh_a180_23
+[19:34:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a subtitle
+[19:34:25] [Server thread/INFO]: Added tag 'anim.ruleta.roja.mini.subtitle' to Sarh_a180_23
