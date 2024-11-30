@@ -378,3 +378,16 @@
 [19:33:54] [Server thread/INFO]: Added tag 'anim.ruleta.roja' to Sarh_a180_23
 [19:34:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a subtitle
 [19:34:25] [Server thread/INFO]: Added tag 'anim.ruleta.roja.mini.subtitle' to Sarh_a180_23
+[19:34:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:1}
+[19:34:58] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[19:35:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:2}
+[19:35:31] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[19:35:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:3}
+[19:35:33] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[19:35:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:4}
+[19:35:35] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[19:35:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:5}
+[19:35:37] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[19:35:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:6}
+[19:35:39] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[19:44:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /tps
