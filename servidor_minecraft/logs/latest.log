@@ -157,3 +157,6 @@
 [21:18:06] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 60.000000, 0.500000]
 [21:18:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:overworld run tp Sarh_a180_23 0 60 0
 [21:18:44] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 60.000000, 0.500000]
+[21:19:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light
+[21:19:37] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[21:22:30] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
