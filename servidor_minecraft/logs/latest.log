@@ -391,3 +391,18 @@
 [19:35:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:6}
 [19:35:39] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
 [19:44:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /tps
+[19:58:04] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[19:58:04] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[19:58:04] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
+[19:58:04] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[19:58:04] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[19:58:04] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[19:58:04] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[19:58:04] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[19:58:04] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
+[19:58:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill 1fc33c26-ec1c-4d28-bb5c-0bf93d4d88eb
+[19:58:51] [Server thread/INFO]: [Sarh_a180_23: Killed Pig]
+[19:59:17] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode adventure
+[19:59:17] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Adventure Mode]
+[19:59:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[19:59:19] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
