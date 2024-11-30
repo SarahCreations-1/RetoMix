@@ -1,408 +1,159 @@
-[17:12:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:12:51] [ServerMain/WARN]: Invalid path in datapack: fokastudio:worldgen/biome/README.md, ignoring
-[17:12:56] [ServerMain/INFO]: Loaded 7 recipes
-[17:12:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[17:12:57] [Server thread/INFO]: Loading properties
-[17:12:57] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[17:12:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:12:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:12:59] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[21:09:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:09:36] [ServerMain/WARN]: Invalid path in datapack: fokastudio:worldgen/biome/README.md, ignoring
+[21:09:41] [ServerMain/INFO]: Loaded 7 recipes
+[21:09:42] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:09:42] [Server thread/INFO]: Loading properties
+[21:09:42] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[21:09:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:09:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:09:44] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[17:12:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[17:12:59] [Server thread/INFO]: Default game type: SURVIVAL
-[17:12:59] [Server thread/INFO]: Generating keypair
-[17:13:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:13:00] [Server thread/INFO]: Using epoll channel type
-[17:13:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:13:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:13:01] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[17:13:08] [Server thread/WARN]: Legacy plugin EasyWhitelist v1.0.2 does not specify an api-version.
-[17:13:08] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[17:13:08] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[17:13:08] [Server thread/INFO]: [AnimationsCore] Loading server plugin AnimationsCore v0.1-SNAPSHOT
-[17:13:08] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.58.1
-[17:13:08] [Server thread/INFO]: [CommandPanels] Loading server plugin CommandPanels v3.21.4.3
-[17:13:08] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.17.2
-[17:13:09] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (463 ms).
-[17:13:09] [Server thread/INFO]: [Shopkeepers] Loading config.
-[17:13:09] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[17:13:09] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[17:13:09] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v17.0.1
-[17:13:09] [Server thread/INFO]: [SimpleTimer] Loading server plugin SimpleTimer v1.5.2
-[17:13:09] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.2
-[17:13:09] [Server thread/INFO]: [ServerListPlus] Loading server plugin ServerListPlus v3.5.0
-[17:13:09] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.18+6616-abda4e0
-[17:13:10] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1eae910d]
-[17:13:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[17:13:10] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
-[17:13:10] [Server thread/INFO]: [EasyWhitelist] Loading server plugin EasyWhitelist v1.0.2
-[17:13:10] [Server thread/INFO]: [ServerVariables] Loading server plugin ServerVariables v2.5.3
-[17:13:10] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.71
-[17:13:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:13:10] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[17:13:10] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v17.0.1
-[17:13:10] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
-[17:13:10] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
-[17:13:11] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.20.1, number: 20.1
-[17:13:11] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.18+6616-abda4e0
-[17:13:11] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[17:13:11] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[17:13:11] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
-[17:13:13] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[17:13:13] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[17:13:14] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[17:13:14] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[17:13:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
-[17:13:14] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[17:13:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:13:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:13:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:13:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:13:14] [Server thread/INFO]: Preparing level "world"
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[17:13:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[17:13:16] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
-[17:13:16] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
-[17:13:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:13:17] [Server thread/INFO]: Time elapsed: 524 ms
-[17:13:17] [Server thread/INFO]: [TerraformGenerator] world loaded.
-[17:13:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:13:17] [Server thread/INFO]: Time elapsed: 136 ms
-[17:13:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:13:17] [Server thread/INFO]: Time elapsed: 106 ms
-[17:13:17] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[17:13:18] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[17:13:18] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
-[17:13:18] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Commands' - this is deprecated behavior, please report it to the authors: 
-[17:13:18] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
-[17:13:18] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Command: animation' - this is deprecated behavior, please report it to the authors: 
-[17:13:18] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
-[17:13:19] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.58.1]
-[17:13:19] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.58.1
-[17:13:19] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[17:13:19] [Server thread/INFO]: [CommandPanels] Enabling CommandPanels v3.21.4.3
-[17:13:19] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loading...
-[17:13:19] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: commandpanels [1.0.0]
-[17:13:19] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loaded!
-[17:13:19] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.17.2
-[17:13:20] [Server thread/INFO]: [SimpleTimer] Enabling SimpleTimer v1.5.2
-[17:13:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: simpletimer [1.5.2]
-[17:13:20] [Server thread/INFO]: [SimpleTimer] Successfully Enabled (v1.5.2)
-[17:13:20] [Server thread/INFO]: [SimpleTimer] Xhasi » Thanks for using my plugin
-[17:13:20] [Server thread/INFO]: [SimpleTimer] There is a new version available. (v1.6.0)
-[17:13:20] [Server thread/INFO]: [SimpleTimer] You can download it at: https://www.spigotmc.org/resources/109565/
-[17:13:20] [Server thread/INFO]: [TAB] Enabling TAB v5.0.2
-[17:13:20] [Server thread/INFO]: [TAB] Loaded NMS hook in 201ms
-[17:13:21] [Server thread/INFO]: [TAB] Enabled in 757ms
-[17:13:21] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.5.0
-[17:13:21] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
-[17:13:21] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
-[17:13:21] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
-[17:13:21] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: BukkitConf
-[17:13:21] [Server thread/INFO]: [ServerListPlus] ProtocolLib is no longer required (and used) by default when using Paper. If this causes compatibility issues with other plugins, try setting ProtocolLib: ENABLE
-[17:13:21] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
-[17:13:21] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
-[17:13:21] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.5.0 enabled.
-[17:13:21] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
-[17:13:21] [Server thread/INFO]: [EasyWhitelist] Enabling EasyWhitelist v1.0.2*
-[17:13:21] [Server thread/INFO]: EasyWhitelist > Config reloaded.
-[17:13:21] [Server thread/INFO]: E-Whitelist > Loaded!
-[17:13:21] [Server thread/INFO]: [ServerVariables] Enabling ServerVariables v2.5.3
-[17:13:21] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: servervariables [2.5.3]
-[17:13:21] [Server thread/INFO]: [ServerVariables] Has been enabled! Version: 2.5.3
-[17:13:21] [Server thread/INFO]: [ServerVariables] Thanks for using my plugin!   ~Ajneb97
-[17:13:21] [Server thread/INFO]: [spark] Enabling spark v1.10.71
-[17:13:22] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
-[17:13:22] [Server thread/INFO]: [spark] Starting background profiler...
-[17:13:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.71]
-[17:13:23] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
-[17:13:23] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[17:13:23] [Server thread/INFO]: Running delayed init tasks
-[17:13:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[17:13:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
-[17:13:23] [Server thread/INFO]: 2 placeholder hook(s) registered!
-[17:13:23] [Server thread/INFO]: Done (25.999s)! For help, type "help"
-[17:13:23] [Server thread/INFO]: Timings Reset
-[17:14:39] [User Authenticator #0/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
-[17:14:39] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sarh_a180_23's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[17:14:39] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:38493] logged in with entity id 187 at ([world]0.6356709203788417, 83.0, 5.220049401033009)
-[17:15:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
-[17:15:05] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
-[17:15:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[17:15:11] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[17:15:22] [Server thread/INFO]: Sarh_a180_23 has made the advancement [Cloud Save]
-[17:16:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[17:16:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[17:16:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'CommandPanels' to create a bStats instance!
-[17:16:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a title
-[17:16:35] [Server thread/INFO]: Added tag 'anim.ruleta.roja' to Sarh_a180_23
-[17:17:08] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a subtitle
-[17:17:08] [Server thread/INFO]: Added tag 'anim.ruleta.roja.mini.subtitle' to Sarh_a180_23
-[17:17:40] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a actionbar
-[17:17:40] [Server thread/INFO]: Added tag 'anim.ruleta.roja.mini.actionbar' to Sarh_a180_23
-[17:18:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a scoreboard
-[17:18:01] [Server thread/INFO]: Added tag 'anim.ruleta.roja.mini.scoreboard' to Sarh_a180_23
-[17:18:38] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[17:18:38] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[17:18:38] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:18:38] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:18:38] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[17:18:38] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[17:20:04] [Server thread/INFO]: [TAB] Disabled in 2ms
-[17:20:04] [Server thread/INFO]: [TAB] [WARN] Player Sarh_a180_23's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[17:20:04] [Server thread/INFO]: [TAB] Enabled in 38ms
-[17:20:04] [Server thread/INFO]: [TAB] [TAB] Successfully reloaded
-[17:20:25] [Server thread/INFO]: [TAB] Disabled in 1ms
-[17:20:25] [Server thread/INFO]: [TAB] [WARN] Player Sarh_a180_23's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[17:20:25] [Server thread/INFO]: [TAB] Enabled in 27ms
-[17:20:25] [Server thread/INFO]: [TAB] [TAB] Successfully reloaded
-[17:20:39] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[17:20:39] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[17:20:39] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:20:39] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:20:39] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[17:20:39] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[17:21:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /tag Sarh_a180_23 add muerte.anim
-[17:21:16] [Server thread/INFO]: [Sarh_a180_23: Added tag 'muerte.anim' to Sarh_a180_23]
-[17:21:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /tag Sarh_a180_23 add anim.muerte
-[17:21:23] [Server thread/INFO]: [Sarh_a180_23: Added tag 'anim.muerte' to Sarh_a180_23]
-[17:21:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /tag Sarh_a180_23 add anim.muerte
-[17:21:29] [Server thread/INFO]: [Sarh_a180_23: Added tag 'anim.muerte' to Sarh_a180_23]
-[17:21:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /tag Sarh_a180_23 add anim.muerte
-[17:21:35] [Server thread/INFO]: [Sarh_a180_23: Added tag 'anim.muerte' to Sarh_a180_23]
-[17:23:17] [Async Chat Thread - #1/INFO]: [Not Secure] <Sarh_a180_23> 0.6 83 -3
-[17:26:03] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:26:20] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:26:22] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:26:27] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:26:29] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:26:33] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:26:46] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:26:48] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:26:50] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:26:52] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:27:01] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:27:24] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[17:27:24] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[17:27:24] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:27:24] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:27:24] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[17:27:24] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[17:28:16] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:28:20] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:28:23] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:29:12] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:29:14] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:29:19] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:29:25] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:29:51] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[17:29:51] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:29:51] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[17:29:51] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:29:51] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:29:51] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[17:29:51] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[17:30:16] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[17:30:16] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:30:16] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[17:30:16] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:30:16] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:30:16] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[17:30:16] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[17:31:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /weather clear
-[17:31:20] [Server thread/INFO]: [Sarh_a180_23: Set the weather to clear]
-[17:33:44] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[17:33:44] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:33:44] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[17:33:44] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:33:44] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:33:44] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[17:33:44] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[17:33:44] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:34:44] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[17:34:44] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:34:44] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[17:34:44] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:34:44] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:34:44] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[17:34:44] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[17:34:44] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:34:44] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[17:37:15] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[17:37:15] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:37:15] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[17:37:15] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:37:15] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:37:15] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[17:37:15] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[17:37:15] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:37:15] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[17:38:02] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[17:38:02] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:38:02] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[17:38:02] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:38:02] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:38:02] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[17:38:02] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[17:38:02] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:38:02] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[17:38:38] [Server thread/INFO]: Sarh_a180_23 has made the advancement [Hidden in the Depths]
-[17:38:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
-[17:38:43] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
-[17:38:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[17:38:50] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[17:54:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[17:54:28] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[17:54:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[17:54:44] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[17:56:30] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[17:56:30] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[17:56:30] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[17:56:30] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:56:30] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[17:56:30] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[17:56:30] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[17:56:30] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[17:56:30] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[18:09:20] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[18:09:20] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[18:09:20] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[18:09:20] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:09:20] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:09:20] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[18:09:20] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[18:09:20] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[18:09:20] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[18:11:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /weather clear
-[18:11:39] [Server thread/INFO]: [Sarh_a180_23: Set the weather to clear]
-[18:16:34] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[18:16:34] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[18:16:34] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[18:16:34] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:16:34] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:16:34] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[18:16:34] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[18:16:34] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[18:16:34] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[18:18:29] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[18:18:29] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[18:18:29] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[18:18:29] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:18:29] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:18:29] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[18:18:29] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[18:18:29] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[18:18:29] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[18:19:19] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[18:19:19] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[18:19:19] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[18:19:19] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:19:19] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:19:19] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[18:19:19] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[18:19:19] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[18:19:19] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[18:27:28] [Server thread/INFO]: Sarh_a180_23 has made the advancement [Glow and Behold!]
-[18:29:47] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[18:29:47] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[18:29:47] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[18:29:47] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:29:47] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:29:47] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[18:29:47] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[18:29:47] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[18:29:47] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[18:30:09] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[18:30:09] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[18:30:09] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[18:30:09] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:30:09] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:30:09] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[18:30:09] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[18:30:09] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[18:30:09] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[18:37:34] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule sendCommandFeedback false
-[18:37:34] [Server thread/INFO]: [Sarh_a180_23: Gamerule sendCommandFeedback is now set to: false]
-[18:37:44] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[18:37:44] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[18:37:44] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[18:37:44] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:37:44] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:37:44] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[18:37:44] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[18:37:44] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[18:37:44] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[18:37:57] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[18:37:57] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[18:37:57] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[18:37:57] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:37:57] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:37:57] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[18:37:57] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[18:37:57] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[18:37:57] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[18:49:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
-[18:49:04] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
-[18:49:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[18:49:09] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[18:58:05] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[18:58:05] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[18:58:05] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[18:58:05] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:58:05] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[18:58:05] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[18:58:05] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[18:58:05] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[18:58:05] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[19:08:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
-[19:08:21] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
-[19:08:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[19:08:30] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[19:08:42] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
-[19:09:44] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
-[19:09:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sarh_a180_23's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:09:44] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:55161] logged in with entity id 3146 at ([world]6.403201797321242, 84.5, -2.8694235213871515)
-[19:33:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a title
-[19:33:54] [Server thread/INFO]: Added tag 'anim.ruleta.roja' to Sarh_a180_23
-[19:34:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a subtitle
-[19:34:25] [Server thread/INFO]: Added tag 'anim.ruleta.roja.mini.subtitle' to Sarh_a180_23
-[19:34:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:1}
-[19:34:58] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
-[19:35:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:2}
-[19:35:31] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
-[19:35:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:3}
-[19:35:33] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
-[19:35:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:4}
-[19:35:35] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
-[19:35:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:5}
-[19:35:37] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
-[19:35:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:6}
-[19:35:39] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
-[19:44:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /tps
-[19:58:04] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[19:58:04] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[19:58:04] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
-[19:58:04] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[19:58:04] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[19:58:04] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[19:58:04] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[19:58:04] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[19:58:04] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
-[19:58:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill 1fc33c26-ec1c-4d28-bb5c-0bf93d4d88eb
-[19:58:51] [Server thread/INFO]: [Sarh_a180_23: Killed Pig]
-[19:59:17] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode adventure
-[19:59:17] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Adventure Mode]
-[19:59:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
-[19:59:19] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[21:09:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[21:09:44] [Server thread/INFO]: Default game type: SURVIVAL
+[21:09:44] [Server thread/INFO]: Generating keypair
+[21:09:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:09:45] [Server thread/INFO]: Using epoll channel type
+[21:09:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:09:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:09:46] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:09:53] [Server thread/WARN]: Legacy plugin EasyWhitelist v1.0.2 does not specify an api-version.
+[21:09:53] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[21:09:53] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[21:09:53] [Server thread/INFO]: [AnimationsCore] Loading server plugin AnimationsCore v0.1-SNAPSHOT
+[21:09:53] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.58.1
+[21:09:53] [Server thread/INFO]: [CommandPanels] Loading server plugin CommandPanels v3.21.4.3
+[21:09:53] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.17.2
+[21:09:54] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (411 ms).
+[21:09:54] [Server thread/INFO]: [Shopkeepers] Loading config.
+[21:09:54] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[21:09:54] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[21:09:54] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v17.0.1
+[21:09:54] [Server thread/INFO]: [SimpleTimer] Loading server plugin SimpleTimer v1.5.2
+[21:09:54] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.2
+[21:09:54] [Server thread/INFO]: [ServerListPlus] Loading server plugin ServerListPlus v3.5.0
+[21:09:54] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.18+6616-abda4e0
+[21:09:54] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2d726793]
+[21:09:54] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[21:09:54] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
+[21:09:54] [Server thread/INFO]: [EasyWhitelist] Loading server plugin EasyWhitelist v1.0.2
+[21:09:54] [Server thread/INFO]: [ServerVariables] Loading server plugin ServerVariables v2.5.3
+[21:09:54] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.71
+[21:09:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:09:54] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[21:09:54] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v17.0.1
+[21:09:54] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[21:09:55] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[21:09:55] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.20.1, number: 20.1
+[21:09:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.18+6616-abda4e0
+[21:09:55] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:09:55] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:09:55] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
+[21:09:57] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[21:09:57] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:09:57] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[21:09:58] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:09:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
+[21:09:58] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[21:09:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:09:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:09:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:09:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:09:58] [Server thread/INFO]: Preparing level "world"
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:09:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:09:59] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
+[21:09:59] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[21:10:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:10:01] [Server thread/INFO]: Time elapsed: 463 ms
+[21:10:01] [Server thread/INFO]: [TerraformGenerator] world loaded.
+[21:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:10:01] [Server thread/INFO]: Time elapsed: 103 ms
+[21:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:10:01] [Server thread/INFO]: Time elapsed: 148 ms
+[21:10:01] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[21:10:01] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:10:01] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
+[21:10:02] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Commands' - this is deprecated behavior, please report it to the authors: 
+[21:10:02] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
+[21:10:02] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Command: animation' - this is deprecated behavior, please report it to the authors: 
+[21:10:02] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[21:10:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.58.1]
+[21:10:02] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.58.1
+[21:10:02] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[21:10:02] [Server thread/INFO]: [CommandPanels] Enabling CommandPanels v3.21.4.3
+[21:10:02] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loading...
+[21:10:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: commandpanels [1.0.0]
+[21:10:03] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loaded!
+[21:10:03] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.17.2
+[21:10:03] [Server thread/INFO]: [SimpleTimer] Enabling SimpleTimer v1.5.2
+[21:10:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: simpletimer [1.5.2]
+[21:10:03] [Server thread/INFO]: [SimpleTimer] Successfully Enabled (v1.5.2)
+[21:10:03] [Server thread/INFO]: [SimpleTimer] Xhasi » Thanks for using my plugin
+[21:10:03] [Server thread/INFO]: [SimpleTimer] There is a new version available. (v1.6.0)
+[21:10:03] [Server thread/INFO]: [SimpleTimer] You can download it at: https://www.spigotmc.org/resources/109565/
+[21:10:03] [Server thread/INFO]: [TAB] Enabling TAB v5.0.2
+[21:10:03] [Server thread/INFO]: [TAB] Loaded NMS hook in 441ms
+[21:10:04] [Server thread/INFO]: [TAB] Enabled in 469ms
+[21:10:04] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.5.0
+[21:10:04] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[21:10:04] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[21:10:04] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[21:10:04] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: BukkitConf
+[21:10:04] [Server thread/INFO]: [ServerListPlus] ProtocolLib is no longer required (and used) by default when using Paper. If this causes compatibility issues with other plugins, try setting ProtocolLib: ENABLE
+[21:10:04] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
+[21:10:04] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
+[21:10:04] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.5.0 enabled.
+[21:10:04] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
+[21:10:04] [Server thread/INFO]: [EasyWhitelist] Enabling EasyWhitelist v1.0.2*
+[21:10:04] [Server thread/INFO]: EasyWhitelist > Config reloaded.
+[21:10:04] [Server thread/INFO]: E-Whitelist > Loaded!
+[21:10:04] [Server thread/INFO]: [ServerVariables] Enabling ServerVariables v2.5.3
+[21:10:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: servervariables [2.5.3]
+[21:10:04] [Server thread/INFO]: [ServerVariables] Has been enabled! Version: 2.5.3
+[21:10:04] [Server thread/INFO]: [ServerVariables] Thanks for using my plugin!   ~Ajneb97
+[21:10:04] [Server thread/INFO]: [spark] Enabling spark v1.10.71
+[21:10:05] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[21:10:05] [Server thread/INFO]: [spark] Starting background profiler...
+[21:10:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.71]
+[21:10:06] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[21:10:07] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:10:07] [Server thread/INFO]: Running delayed init tasks
+[21:10:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[21:10:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
+[21:10:07] [Server thread/INFO]: 2 placeholder hook(s) registered!
+[21:10:07] [Server thread/INFO]: Done (24.602s)! For help, type "help"
+[21:10:07] [Server thread/INFO]: Timings Reset
+[21:10:16] [User Authenticator #0/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[21:10:17] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sarh_a180_23's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:10:17] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:57909] logged in with entity id 188 at ([world]5.674495703095751, 70.0, 7.3126921883816856)
+[21:10:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:10:39] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:11:01] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[21:11:01] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[21:11:01] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'CommandPanels' to create a bStats instance!
+[21:11:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[21:11:44] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[21:11:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:11:46] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:13:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a title
+[21:13:53] [Server thread/INFO]: Added tag 'anim.ruleta.verde' to Sarh_a180_23
+[21:14:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[21:14:22] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[21:14:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:14:24] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:18:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:the_nether run tp Sarh_a180_23 0 60 0
+[21:18:06] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 60.000000, 0.500000]
+[21:18:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:overworld run tp Sarh_a180_23 0 60 0
+[21:18:44] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 60.000000, 0.500000]
