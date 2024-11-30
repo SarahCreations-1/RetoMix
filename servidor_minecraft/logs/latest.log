@@ -160,3 +160,14 @@
 [21:19:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light
 [21:19:37] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
 [21:22:30] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[21:33:10] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[21:33:10] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Sarh_a180_23's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:33:10] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:33181] logged in with entity id 630 at ([world]28.724105195129678, 71.61813811185147, 27.30000001192093)
+[21:33:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /weather clear
+[21:33:43] [Server thread/INFO]: [Sarh_a180_23: Set the weather to clear]
+[21:33:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule doWeatherCycle false
+[21:33:55] [Server thread/INFO]: [Sarh_a180_23: Gamerule doWeatherCycle is now set to: false]
+[21:34:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a actionbar
+[21:34:10] [Server thread/INFO]: Added tag 'anim.ruleta.verde.mini.actionbar' to Sarh_a180_23
+[21:34:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a actionbar
+[21:34:50] [Server thread/INFO]: Added tag 'anim.ruleta.verde.mini.actionbar' to Sarh_a180_23
