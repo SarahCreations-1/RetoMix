@@ -220,3 +220,11 @@
 [01:52:29] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace air stone
 [01:52:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [01:52:45] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:18:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:18:29] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:18:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:18:30] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:23:52] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:23:52] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:24:00] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:24:00] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
