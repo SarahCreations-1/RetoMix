@@ -149,3 +149,49 @@
 [00:42:38] [Server thread/INFO]: Sarh_a180_23 has made the advancement [Who is Cutting Onions?]
 [00:43:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
 [00:43:19] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[00:44:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[00:44:50] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[00:45:04] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[00:45:04] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[00:45:04] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
+[00:45:04] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[00:45:04] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[00:45:04] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[00:45:04] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[00:45:04] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[00:45:04] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
+[00:45:26] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[00:45:26] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[00:45:26] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 36.000000, 0.500000]
+[00:45:26] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[00:45:26] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[00:45:26] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[00:45:26] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[00:45:26] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[00:45:26] [Server thread/INFO]: [@: Applied effect Blindness to Sarh_a180_23]
+[00:46:14] [Server thread/INFO]: Sarh_a180_23 issued server command: //wand
+[00:46:32] [Server thread/INFO]: Sarh_a180_23 issued server command: //set black_concrete
+[00:46:41] [Server thread/INFO]: Sarh_a180_23 issued server command: //set black_concrete
+[00:46:49] [Server thread/INFO]: Sarh_a180_23 issued server command: //set black_concrete
+[00:46:56] [Server thread/INFO]: Sarh_a180_23 issued server command: //set black_concrete
+[00:47:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a actionbar
+[00:47:25] [Server thread/INFO]: Added tag 'anim.ruleta.verde.mini.actionbar' to Sarh_a180_23
+[00:48:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a actionbar
+[00:48:30] [Server thread/INFO]: Added tag 'anim.ruleta.verde.mini.actionbar' to Sarh_a180_23
+[00:51:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[00:51:02] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[00:51:21] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
+[00:51:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
+[00:51:41] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace stone air
+[00:52:04] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[00:52:07] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
+[00:52:20] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
+[00:52:22] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace stone air
+[00:52:37] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[00:52:51] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
+[00:53:05] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
+[00:53:09] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace stone air
+[00:53:13] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[00:53:17] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
+[00:53:31] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
+[00:53:34] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace stone air
