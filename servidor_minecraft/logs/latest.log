@@ -214,3 +214,9 @@
 [01:10:52] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
 [01:10:57] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl polished_blackstone_bricks 2
 [01:35:28] [Server thread/INFO]: Sarh_a180_23 has made the advancement [Into Fire]
+[01:47:51] [Server thread/INFO]: Sarh_a180_23 has made the advancement [Stone Age]
+[01:52:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[01:52:20] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[01:52:29] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace air stone
+[01:52:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[01:52:45] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
