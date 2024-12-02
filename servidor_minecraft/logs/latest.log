@@ -586,3 +586,41 @@
 [03:14:42] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
 [03:14:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{BlockStateTag:{level:10}}
 [03:14:50] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:15:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{BlockStateTag:{level:14}}
+[03:15:33] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:15:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{BlockStateTag:{level:15}}
+[03:15:39] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:16:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[03:16:55] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[03:17:08] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[03:17:08] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[03:17:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[03:17:45] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[03:17:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[03:17:50] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[03:17:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[03:17:53] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[03:17:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[03:17:58] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[03:18:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[03:18:01] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[03:18:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[03:18:06] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[03:19:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:19:48] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:19:56] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:19:56] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:20:00] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:20:00] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:20:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:20:02] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:20:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:20:06] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:20:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:20:10] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:20:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{BlockStateTag:{level:10}}
+[03:20:27] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:24:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta azul @a title
+[03:24:37] [Server thread/INFO]: Added tag 'anim.ruleta.azul' to Sarh_a180_23
+[03:25:18] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta azul @a title Se han agregado nuevas misiones secundarias usa /misiones secundarias para verlas
+[03:25:18] [Server thread/INFO]: Added tag 'anim.ruleta.azul' to Sarh_a180_23
