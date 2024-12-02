@@ -500,3 +500,89 @@
 [03:01:50] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
 [03:02:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [03:02:02] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:05:23] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[03:05:23] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[03:05:23] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to -24.500000, 70.000000, 0.500000]
+[03:05:23] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[03:05:23] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[03:05:23] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[03:05:23] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[03:05:23] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[03:05:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:05:26] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:05:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:05:28] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:05:32] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[03:05:32] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[03:05:32] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to -24.500000, 70.000000, 0.500000]
+[03:05:32] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[03:05:32] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[03:05:32] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[03:05:32] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[03:05:32] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[03:05:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:05:33] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:05:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:05:38] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:06:39] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[03:06:39] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[03:06:39] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 70.000000, 25.500000]
+[03:06:39] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[03:06:39] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[03:06:39] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[03:06:39] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[03:06:39] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[03:06:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:06:41] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:06:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:06:44] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:06:51] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[03:06:51] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[03:06:51] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 70.000000, 25.500000]
+[03:06:51] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[03:06:51] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[03:06:51] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[03:06:51] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[03:06:51] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[03:06:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:06:53] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:06:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:06:54] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:07:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:debug_stick
+[03:07:09] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Debug Stick] to Sarh_a180_23]
+[03:07:27] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[03:07:27] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[03:07:27] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 70.000000, 25.500000]
+[03:07:27] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[03:07:27] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[03:07:27] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[03:07:27] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[03:07:27] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[03:07:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:07:28] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:07:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:07:30] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:08:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{2}
+[03:08:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{LightIntensity:1}
+[03:08:49] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:09:00] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{Intensity:1}
+[03:09:00] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:11:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{Int:1}
+[03:11:04] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:11:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{BlockStateTag:1}
+[03:11:27] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:11:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{BlockStateTag:Level:1}
+[03:13:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{Level:1}
+[03:13:42] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:13:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{level:1}
+[03:13:46] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:13:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{level:3}
+[03:13:50] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:14:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{BlockStateTag:{level:3}}
+[03:14:30] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:14:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{BlockStateTag:{level:3}}
+[03:14:35] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:14:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{BlockStateTag:{level:8}}
+[03:14:42] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[03:14:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light{BlockStateTag:{level:10}}
+[03:14:50] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
