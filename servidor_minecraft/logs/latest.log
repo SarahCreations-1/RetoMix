@@ -298,3 +298,67 @@
 [02:29:56] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
 [02:29:56] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
 [02:29:56] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[02:37:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:37:35] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:37:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:37:39] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:37:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:37:46] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:37:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:37:55] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:38:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /tp 0 70 25
+[02:38:07] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 70.000000, 25.500000]
+[02:38:47] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[02:38:47] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[02:38:47] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 70.000000, 25.500000]
+[02:38:47] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[02:38:47] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[02:39:55] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[02:39:55] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[02:39:55] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 70.000000, 25.500000]
+[02:39:55] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[02:39:55] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[02:39:55] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[02:39:55] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[02:39:55] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[02:40:27] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[02:40:27] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[02:40:27] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 70.000000, 25.500000]
+[02:40:27] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[02:40:27] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[02:40:27] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[02:40:27] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[02:40:27] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[02:40:57] [Server thread/INFO]: Sarh_a180_23 issued server command: //wand
+[02:42:34] [Server thread/INFO]: Sarh_a180_23 issued server command: //copy
+[02:42:43] [Server thread/INFO]: Sarh_a180_23 issued server command: //rotate 90 0 0
+[02:42:49] [Server thread/INFO]: Sarh_a180_23 issued server command: //past
+[02:42:52] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:42:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:42:55] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:43:04] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:43:08] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:43:12] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:43:14] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:43:18] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:43:21] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:43:23] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:43:26] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:43:29] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:43:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:43:37] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:43:39] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:43:47] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:43:50] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:43:56] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:43:59] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:44:04] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:44:09] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:44:25] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:44:28] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:44:31] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:44:34] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:44:36] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[02:44:38] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:44:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:44:54] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
