@@ -1,347 +1,329 @@
-[03:08:04] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:08:05] [ServerMain/WARN]: Invalid path in datapack: fokastudio:worldgen/biome/README.md, ignoring
-[03:08:09] [ServerMain/INFO]: Loaded 7 recipes
-[03:08:10] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:08:10] [Server thread/INFO]: Loading properties
-[03:08:10] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[03:08:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:08:11] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:08:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[04:30:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:30:07] [ServerMain/WARN]: Invalid path in datapack: fokastudio:worldgen/biome/README.md, ignoring
+[04:30:10] [ServerMain/INFO]: Loaded 7 recipes
+[04:30:11] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[04:30:11] [Server thread/INFO]: Loading properties
+[04:30:11] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[04:30:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:30:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:30:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[03:08:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[03:08:12] [Server thread/INFO]: Default game type: SURVIVAL
-[03:08:12] [Server thread/INFO]: Generating keypair
-[03:08:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:08:12] [Server thread/INFO]: Using epoll channel type
-[03:08:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:08:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:08:14] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'TradeManager-1.3.7.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: me/cantbejohn/tradeManager/TradeManager has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[paper-1.20.1.jar:git-Paper-196]
+[04:30:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[04:30:12] [Server thread/INFO]: Default game type: SURVIVAL
+[04:30:12] [Server thread/INFO]: Generating keypair
+[04:30:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:30:12] [Server thread/INFO]: Using epoll channel type
+[04:30:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:30:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:30:13] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[04:30:16] [Server thread/WARN]: Legacy plugin Animotion v1.0_i_patch3 does not specify an api-version.
+[04:30:16] [Server thread/WARN]: Legacy plugin EasyWhitelist v1.0.2 does not specify an api-version.
+[04:30:16] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[04:30:16] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[04:30:16] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.18+6616-abda4e0
+[04:30:17] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7509b183]
+[04:30:17] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[04:30:17] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[04:30:17] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[04:30:17] [Server thread/INFO]: [AnimationsCore] Loading server plugin AnimationsCore v0.1-SNAPSHOT
+[04:30:17] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.58.1
+[04:30:17] [Server thread/INFO]: [CommandPanels] Loading server plugin CommandPanels v3.21.4.3
+[04:30:17] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.17.2
+[04:30:17] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (338 ms).
+[04:30:17] [Server thread/INFO]: [Shopkeepers] Loading config.
+[04:30:17] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[04:30:17] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[04:30:17] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[04:30:17] [Server thread/INFO]: [SternalBoard] Loading server plugin SternalBoard v2.3.0
+[04:30:17] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v17.0.1
+[04:30:17] [Server thread/INFO]: [TradeManager] Loading server plugin TradeManager v1.3.7
+[04:30:17] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.5.3
+[04:30:17] [Server thread/INFO]: [TabList] Loading server plugin TabList v5.7.7
+[04:30:17] [Server thread/INFO]: [SimpleTimer] Loading server plugin SimpleTimer v1.5.2
+[04:30:17] [Server thread/INFO]: [ServerListPlus] Loading server plugin ServerListPlus v3.5.0
+[04:30:17] [Server thread/INFO]: [Animotion] Loading server plugin Animotion v1.0_i_patch3
+[04:30:17] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[04:30:17] [Server thread/INFO]: [Skulls] Loading server plugin Skulls v3.21.0
+[04:30:17] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
+[04:30:17] [Server thread/INFO]: [EasyWhitelist] Loading server plugin EasyWhitelist v1.0.2
+[04:30:17] [Server thread/INFO]: [ChatManager] Loading server plugin ChatManager v3.7.7
+[04:30:17] [Server thread/INFO]: [Elevator] Loading server plugin Elevator v3.0.8
+[04:30:17] [Server thread/INFO]: [ServerVariables] Loading server plugin ServerVariables v2.5.3
+[04:30:17] [Server thread/INFO]: [CustomizablePlayerModels] Loading server plugin CustomizablePlayerModels v0.6.17a
+[04:30:17] [Server thread/INFO]: [eShulkerBox] Loading server plugin eShulkerBox v0.6.3
+[04:30:17] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin loading...
+[04:30:17] [Server thread/WARN]: [ShulkerBox] YOU ARE USING FREE eShulkerBox VERSION
+[04:30:17] [Server thread/WARN]: [ShulkerBox] We recommend using the paid version https://builtbybit.com/resources/eshulkerbox.41479/
+[04:30:17] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin loaded in 97ms
+[04:30:17] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.71
+[04:30:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:30:17] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[04:30:18] [pool-17-thread-1/INFO]: [ShulkerBox] Unable to check for updates: https://api.spigotmc.org/legacy/update.php?resource=-1
+[04:30:18] [Server thread/INFO]:         __    
+[04:30:18] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[04:30:18] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[04:30:18] [Server thread/INFO]: 
+[04:30:18] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[04:30:19] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[04:30:19] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[04:30:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[04:30:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2191ms)
+[04:30:20] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[04:30:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[04:30:20] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[04:30:20] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[04:30:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.18+6616-abda4e0
+[04:30:20] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[04:30:20] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[04:30:20] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
+[04:30:21] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[04:30:21] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v17.0.1
+[04:30:21] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[04:30:21] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[04:30:21] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.20.1, number: 20.1
+[04:30:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[04:30:22] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[04:30:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[04:30:22] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:30:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
+[04:30:22] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[04:30:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:30:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:30:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:30:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:30:22] [Server thread/INFO]: Preparing level "world"
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:30:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:30:23] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
+[04:30:23] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[04:30:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:30:24] [Server thread/INFO]: Time elapsed: 252 ms
+[04:30:24] [Server thread/INFO]: [TerraformGenerator] world loaded.
+[04:30:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:30:24] [Server thread/INFO]: Time elapsed: 175 ms
+[04:30:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:30:24] [Server thread/INFO]: Time elapsed: 83 ms
+[04:30:24] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[04:30:24] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[04:30:24] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[04:30:24] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[04:30:24] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[04:30:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[04:30:25] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[04:30:25] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[04:30:25] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[04:30:25] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[04:30:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[04:30:25] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[04:30:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[04:30:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[04:30:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[04:30:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[04:30:25] [Server thread/INFO]: [WorldGuard] Loading region data...
+[04:30:25] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[04:30:25] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[04:30:25] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
+[04:30:25] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Commands' - this is deprecated behavior, please report it to the authors: 
+[04:30:25] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
+[04:30:25] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Command: animation' - this is deprecated behavior, please report it to the authors: 
+[04:30:25] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[04:30:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.58.1]
+[04:30:26] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.58.1
+[04:30:26] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[04:30:26] [Server thread/INFO]: [CommandPanels] Enabling CommandPanels v3.21.4.3
+[04:30:26] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loading...
+[04:30:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: commandpanels [1.0.0]
+[04:30:26] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loaded!
+[04:30:26] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.17.2
+[04:30:26] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.0
+[04:30:26] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-legacy
+[04:30:26] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-legacy/4.17.0/adventure-text-serializer-legacy-4.17.0.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/org/ow2/asm/asm/9.2/asm-9.2.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/me/lucko/jar-relocator/1.7/jar-relocator-1.7.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-legacy-4.17.0.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-plain
+[04:30:26] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-plain/4.17.0/adventure-text-serializer-plain-4.17.0.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-plain-4.17.0.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json
+[04:30:26] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-json/4.17.0/adventure-text-serializer-json-4.17.0.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-json-4.17.0.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-ansi
+[04:30:26] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-ansi/4.17.0/adventure-text-serializer-ansi-4.17.0.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-ansi-4.17.0.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson
+[04:30:26] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson/4.17.0/adventure-text-serializer-gson-4.17.0.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-gson-4.17.0.jar
+[04:30:26] [Server thread/INFO]: [SternalBoard] Loading library adventure-nbt
+[04:30:27] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-nbt/4.17.0/adventure-nbt-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-nbt-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json-legacy-impl
+[04:30:27] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-json-legacy-impl/4.17.0/adventure-text-serializer-json-legacy-impl-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-json-legacy-impl-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson-legacy-impl
+[04:30:27] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.17.0/adventure-text-serializer-gson-legacy-impl-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-gson-legacy-impl-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-minimessage
+[04:30:27] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-minimessage-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Loading library adventure-api
+[04:30:27] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-api-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Loading library examination-api
+[04:30:27] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Relocations applied to examination-api-1.3.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-api
+[04:30:27] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-api-4.3.3.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-bukkit
+[04:30:27] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-bukkit-4.3.3.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-facet
+[04:30:27] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-facet-4.3.3.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Loading library adventure-key
+[04:30:27] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-key-4.17.0.jar
+[04:30:27] [Server thread/INFO]: [TradeManager] Enabling TradeManager v1.3.7
+[04:30:28] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.3
+[04:30:28] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.3 Has Been Enabled!
+[04:30:28] [Server thread/INFO]: [TabList] Enabling TabList v5.7.7
+[04:30:28] [Server thread/INFO]: [TabList] Found PlaceholderAPI version: 2.11.6
+[04:30:28] [Server thread/INFO]: [TabList] v5.7.7 on v1_20_1 (148ms)
+[04:30:28] [Server thread/INFO]: [SimpleTimer] Enabling SimpleTimer v1.5.2
+[04:30:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: simpletimer [1.5.2]
+[04:30:28] [Server thread/INFO]: [SimpleTimer] Successfully Enabled (v1.5.2)
+[04:30:28] [Server thread/INFO]: [SimpleTimer] Xhasi » Thanks for using my plugin
+[04:30:28] [Server thread/INFO]: [SimpleTimer] There is a new version available. (v1.6.0)
+[04:30:28] [Server thread/INFO]: [SimpleTimer] You can download it at: https://www.spigotmc.org/resources/109565/
+[04:30:28] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.5.0
+[04:30:28] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[04:30:28] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[04:30:28] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[04:30:28] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: BukkitConf
+[04:30:28] [Server thread/INFO]: [ServerListPlus] ProtocolLib is no longer required (and used) by default when using Paper. If this causes compatibility issues with other plugins, try setting ProtocolLib: ENABLE
+[04:30:28] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
+[04:30:28] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
+[04:30:28] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.5.0 enabled.
+[04:30:28] [Server thread/INFO]: [Animotion] Enabling Animotion v1.0_i_patch3*
+[04:30:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: animotion [1a]
+[04:30:28] [Server thread/INFO]: Animotion PlaceholderAPI expansion has been enabled.
+[04:30:28] [Server thread/INFO]: Animotion WorldGuard extension has been enabled.
+[04:30:28] [Server thread/INFO]: Animotion Animotion is ready to use !
+[04:30:29] [Server thread/INFO]: Animotion An update is available.
+[04:30:29] [Server thread/INFO]: [Skulls] Enabling Skulls v3.21.0
+[04:30:29] [Server thread/INFO]:  
+[04:30:29] [Server thread/INFO]: =============================
+[04:30:29] [Server thread/INFO]: Skulls v3.21.0 by Tweetzy
+[04:30:29] [Server thread/INFO]: Developer: Kiran Hart
+[04:30:30] [Server thread/INFO]: Skulls » Skulls could not find an economy provider for Vault!
+[04:30:30] [Server thread/INFO]: [FlightCore] Enabling metrics for Skulls
+[04:30:30] [Server thread/INFO]: =============================
+[04:30:30] [Server thread/INFO]:  
+[04:30:30] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
+[04:30:30] [Server thread/INFO]: [EasyWhitelist] Enabling EasyWhitelist v1.0.2*
+[04:30:30] [Server thread/INFO]: EasyWhitelist > Config reloaded.
+[04:30:30] [Server thread/INFO]: E-Whitelist > Loaded!
+[04:30:30] [Server thread/INFO]: [ChatManager] Enabling ChatManager v3.7.7
+[04:30:30] [Server thread/INFO]: [ChatManager] Hooked into: PlaceholderAPI v2.11.6
+[04:30:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chatmanager [3.7.7]
+[04:30:30] [Server thread/INFO]: [ChatManager] Hooked into: Vault v1.7.3-b131
+[04:30:30] [Server thread/INFO]: [ChatManager] Hooked into: LuckPerms v5.4.131
+[04:30:30] [Server thread/INFO]: [ChatManager] Starting Metrics.
+[04:30:30] [Server thread/INFO]: =========================
+[04:30:30] [Server thread/INFO]: Chat Manager
+[04:30:30] [Server thread/INFO]: Version 3.7.7
+[04:30:30] [Server thread/INFO]: Author: H1DD3NxN1NJA
+[04:30:30] [Server thread/INFO]: =========================
+[04:30:30] [Server thread/INFO]: [Elevator] Enabling Elevator v3.0.8
+[04:30:30] [Server thread/INFO]: [Elevator] Detected 1.20.1-R0.1-SNAPSHOT.
+[04:30:30] [Server thread/INFO]: ___________ __                       __                
+[04:30:30] [Server thread/INFO]: \_   _____/|  |   _______  _______ _/  |_  ___________ 
+[04:30:30] [Server thread/INFO]:  |    __)_ |  | _/ __ \  \/ /\__  \\   __\/  _ \_  __ \
+[04:30:30] [Server thread/INFO]:  |        \|  |_\  ___/\   /  / __ \|  | (  <_> )  | \/
+[04:30:30] [Server thread/INFO]: /_______  /|____/\___  >\_/  (____  /__|  \____/|__|   
+[04:30:30] [Server thread/INFO]:         \/           \/           \/                   
+[04:30:30] [Server thread/INFO]: 
+[04:30:30] [Server thread/INFO]: Elevator v3.0.8
+[04:30:30] [Server thread/INFO]: Running on Paper
+[04:30:30] [Server thread/INFO]: Author: Baktus_79
+[04:30:30] [Server thread/INFO]: _______________________________________________________
+[04:30:30] [Server thread/INFO]: 
+[04:30:30] [Server thread/ERROR]: Error occurred while enabling Elevator v3.0.8 (Is it up to date?)
+java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
+	at java.lang.Enum.valueOf(Enum.java:293) ~[?:?]
+	at org.bukkit.Particle.valueOf(Particle.java:9) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at no.vestlandetmc.elevator.config.Config.onLoad(Config.java:76) ~[Elevator.jar:?]
+	at no.vestlandetmc.elevator.config.Config.initialize(Config.java:194) ~[Elevator.jar:?]
+	at no.vestlandetmc.elevator.ElevatorPlugin.onEnable(ElevatorPlugin.java:52) ~[Elevator.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:642) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:553) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:635) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:434) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:308) ~[paper-1.20.1.jar:git-Paper-196]
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.UnsupportedClassVersionError: me/cantbejohn/tradeManager/TradeManager has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
-	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
-	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
-	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
-	at java.lang.Class.forName0(Native Method) ~[?:?]
-	at java.lang.Class.forName(Class.java:467) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
-	... 9 more
-[03:08:14] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'Sleeper.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: sleeper/main/Main has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.UnsupportedClassVersionError: sleeper/main/Main has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
-	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
-	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
-	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
-	at java.lang.Class.forName0(Native Method) ~[?:?]
-	at java.lang.Class.forName(Class.java:467) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
-	... 9 more
-[03:08:14] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[03:08:18] [Server thread/WARN]: Legacy plugin Animotion v1.0_i_patch3 does not specify an api-version.
-[03:08:18] [Server thread/WARN]: Legacy plugin EasyWhitelist v1.0.2 does not specify an api-version.
-[03:08:18] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'Elevator.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: no/vestlandetmc/elevator/ElevatorPlugin has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.UnsupportedClassVersionError: no/vestlandetmc/elevator/ElevatorPlugin has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
-	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
-	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
-	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
-	at java.lang.Class.forName0(Native Method) ~[?:?]
-	at java.lang.Class.forName(Class.java:467) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
-	... 9 more
-[03:08:18] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[03:08:18] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[03:08:18] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.18+6616-abda4e0
-[03:08:19] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7ed0a1d2]
-[03:08:19] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[03:08:19] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
-[03:08:19] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[03:08:19] [Server thread/INFO]: [AnimationsCore] Loading server plugin AnimationsCore v0.1-SNAPSHOT
-[03:08:19] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.58.1
-[03:08:19] [Server thread/INFO]: [CommandPanels] Loading server plugin CommandPanels v3.21.4.3
-[03:08:19] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.17.2
-[03:08:20] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (336 ms).
-[03:08:20] [Server thread/INFO]: [Shopkeepers] Loading config.
-[03:08:20] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[03:08:20] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
-[03:08:20] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[03:08:20] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v17.0.1
-[03:08:20] [Server thread/INFO]: [SimpleTimer] Loading server plugin SimpleTimer v1.5.2
-[03:08:20] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.2
-[03:08:20] [Server thread/INFO]: [ServerListPlus] Loading server plugin ServerListPlus v3.5.0
-[03:08:20] [Server thread/INFO]: [Animotion] Loading server plugin Animotion v1.0_i_patch3
-[03:08:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[03:08:20] [Server thread/INFO]: [Skulls] Loading server plugin Skulls v3.21.0
-[03:08:20] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
-[03:08:20] [Server thread/INFO]: [EasyWhitelist] Loading server plugin EasyWhitelist v1.0.2
-[03:08:20] [Server thread/INFO]: [ChatManager] Loading server plugin ChatManager v3.7.7
-[03:08:20] [Server thread/INFO]: [ServerVariables] Loading server plugin ServerVariables v2.5.3
-[03:08:20] [Server thread/INFO]: [CustomizablePlayerModels] Loading server plugin CustomizablePlayerModels v0.6.17a
-[03:08:20] [Server thread/INFO]: [eShulkerBox] Loading server plugin eShulkerBox v0.6.3
-[03:08:20] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin loading...
-[03:08:20] [Server thread/WARN]: [ShulkerBox] YOU ARE USING FREE eShulkerBox VERSION
-[03:08:20] [Server thread/WARN]: [ShulkerBox] We recommend using the paid version https://builtbybit.com/resources/eshulkerbox.41479/
-[03:08:20] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin loaded in 64ms
-[03:08:20] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.71
-[03:08:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:08:20] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[03:08:20] [pool-17-thread-1/INFO]: [ShulkerBox] Unable to check for updates: https://api.spigotmc.org/legacy/update.php?resource=-1
-[03:08:21] [Server thread/INFO]:         __    
-[03:08:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[03:08:21] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[03:08:21] [Server thread/INFO]: 
-[03:08:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[03:08:21] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[03:08:21] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[03:08:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[03:08:22] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2059ms)
-[03:08:22] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[03:08:22] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[03:08:22] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[03:08:22] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[03:08:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.18+6616-abda4e0
-[03:08:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[03:08:22] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[03:08:22] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
-[03:08:24] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[03:08:24] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v17.0.1
-[03:08:24] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
-[03:08:24] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
-[03:08:24] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.20.1, number: 20.1
-[03:08:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[03:08:24] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:08:25] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[03:08:25] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:08:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
-[03:08:25] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[03:08:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:08:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:08:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:08:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:08:25] [Server thread/INFO]: Preparing level "world"
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:08:25] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:08:26] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
-[03:08:26] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
-[03:08:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:08:27] [Server thread/INFO]: Time elapsed: 211 ms
-[03:08:27] [Server thread/INFO]: [TerraformGenerator] world loaded.
-[03:08:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:08:27] [Server thread/INFO]: Time elapsed: 94 ms
-[03:08:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:08:27] [Server thread/INFO]: Time elapsed: 54 ms
-[03:08:27] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[03:08:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[03:08:27] [Server thread/INFO]: [WorldGuard] Loading region data...
-[03:08:28] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[03:08:28] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[03:08:28] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
-[03:08:28] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Commands' - this is deprecated behavior, please report it to the authors: 
-[03:08:28] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
-[03:08:28] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Command: animation' - this is deprecated behavior, please report it to the authors: 
-[03:08:28] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
-[03:08:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.58.1]
-[03:08:29] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.58.1
-[03:08:29] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[03:08:29] [Server thread/INFO]: [CommandPanels] Enabling CommandPanels v3.21.4.3
-[03:08:29] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loading...
-[03:08:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: commandpanels [1.0.0]
-[03:08:29] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loaded!
-[03:08:29] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.17.2
-[03:08:29] [Server thread/INFO]: [SimpleTimer] Enabling SimpleTimer v1.5.2
-[03:08:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: simpletimer [1.5.2]
-[03:08:29] [Server thread/INFO]: [SimpleTimer] Successfully Enabled (v1.5.2)
-[03:08:29] [Server thread/INFO]: [SimpleTimer] Xhasi » Thanks for using my plugin
-[03:08:29] [Server thread/INFO]: [SimpleTimer] There is a new version available. (v1.6.0)
-[03:08:29] [Server thread/INFO]: [SimpleTimer] You can download it at: https://www.spigotmc.org/resources/109565/
-[03:08:29] [Server thread/INFO]: [TAB] Enabling TAB v5.0.2
-[03:08:29] [Server thread/INFO]: [TAB] Loaded NMS hook in 186ms
-[03:08:30] [Server thread/INFO]: [TAB] Enabled in 318ms
-[03:08:30] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.5.0
-[03:08:30] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
-[03:08:30] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
-[03:08:30] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
-[03:08:30] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: BukkitConf
-[03:08:30] [Server thread/INFO]: [ServerListPlus] ProtocolLib is no longer required (and used) by default when using Paper. If this causes compatibility issues with other plugins, try setting ProtocolLib: ENABLE
-[03:08:30] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
-[03:08:30] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
-[03:08:30] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.5.0 enabled.
-[03:08:30] [Server thread/INFO]: [Animotion] Enabling Animotion v1.0_i_patch3*
-[03:08:30] [Server thread/INFO]: Animotion The animotions folder has been created.
-[03:08:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: animotion [1a]
-[03:08:30] [Server thread/INFO]: Animotion PlaceholderAPI expansion has been enabled.
-[03:08:30] [Server thread/INFO]: Animotion WorldGuard extension has been enabled.
-[03:08:30] [Server thread/INFO]: Animotion Animotion is ready to use !
-[03:08:31] [Server thread/INFO]: Animotion An update is available.
-[03:08:31] [Server thread/INFO]: [Skulls] Enabling Skulls v3.21.0
-[03:08:31] [Server thread/INFO]:  
-[03:08:31] [Server thread/INFO]: =============================
-[03:08:31] [Server thread/INFO]: Skulls v3.21.0 by Tweetzy
-[03:08:31] [Server thread/INFO]: Developer: Kiran Hart
-[03:08:31] [Server thread/INFO]: Skulls » Skulls could not find an economy provider for Vault!
-[03:08:31] [Server thread/INFO]: [FlightCore] Enabling metrics for Skulls
-[03:08:31] [Server thread/INFO]: =============================
-[03:08:31] [Server thread/INFO]:  
-[03:08:31] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
-[03:08:31] [Server thread/INFO]: [EasyWhitelist] Enabling EasyWhitelist v1.0.2*
-[03:08:31] [Server thread/INFO]: EasyWhitelist > Config reloaded.
-[03:08:31] [Server thread/INFO]: E-Whitelist > Loaded!
-[03:08:31] [Server thread/INFO]: [ChatManager] Enabling ChatManager v3.7.7
-[03:08:31] [Server thread/INFO]: [ChatManager] Hooked into: PlaceholderAPI v2.11.6
-[03:08:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chatmanager [3.7.7]
-[03:08:31] [Server thread/INFO]: [ChatManager] Hooked into: Vault v1.7.3-b131
-[03:08:31] [Server thread/INFO]: [ChatManager] Hooked into: LuckPerms v5.4.131
-[03:08:31] [Server thread/INFO]: [ChatManager] Starting Metrics.
-[03:08:31] [Server thread/INFO]: =========================
-[03:08:31] [Server thread/INFO]: Chat Manager
-[03:08:31] [Server thread/INFO]: Version 3.7.7
-[03:08:31] [Server thread/INFO]: Author: H1DD3NxN1NJA
-[03:08:31] [Server thread/INFO]: =========================
-[03:08:31] [Server thread/INFO]: [ServerVariables] Enabling ServerVariables v2.5.3
-[03:08:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: servervariables [2.5.3]
-[03:08:31] [Server thread/INFO]: [ServerVariables] Has been enabled! Version: 2.5.3
-[03:08:31] [Server thread/INFO]: [ServerVariables] Thanks for using my plugin!   ~Ajneb97
-[03:08:31] [Server thread/INFO]: [CustomizablePlayerModels] Enabling CustomizablePlayerModels v0.6.17a
-[03:08:31] [Server thread/INFO]: [CustomizablePlayerModels] Customizable Player Models Initialized
-[03:08:31] [Server thread/INFO]: [eShulkerBox] Enabling eShulkerBox v0.6.3
-[03:08:31] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin initializing...
-[03:08:31] [Server thread/INFO]: [ShulkerBox] Initialized 'MessageService'
-[03:08:31] [Server thread/INFO]: [ShulkerBox] Initialized 'CommandService'
-[03:08:31] [Server thread/WARN]: [Item Mechanic] The shulkerboxes folder does not exist! Creating it...
-[03:08:31] [Server thread/INFO]: [Item Mechanic] The shulkerboxes folder was created successfully!
-[03:08:31] [Server thread/INFO]: [Item Mechanic] Creating default shulker box...
-[03:08:31] [Server thread/INFO]: [Item Mechanic] Loading custom shulker box default_shulkerbox.yaml...
-[03:08:31] [Server thread/INFO]: [Item Mechanic] Loading recipe for custom shulker box default_shulkerbox.yaml...
-[03:08:31] [Server thread/INFO]: [ShulkerBox] Recipe added to the server!
-[03:08:31] [Server thread/INFO]: [Item Mechanic] The custom shulker box default_shulkerbox.yaml was loaded successfully!
-[03:08:31] [Server thread/INFO]: [ShulkerBox] Initialized 'ItemMechanic'
-[03:08:31] [Server thread/INFO]: [ShulkerBox] Initialized 'ShulkerBoxMechanic'
-[03:08:31] [Server thread/INFO]: [ShulkerBox] Initialized 'CommandTabListService'
-[03:08:31] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin initialized in 207ms
-[03:08:31] [Server thread/INFO]: [spark] Enabling spark v1.10.71
-[03:08:32] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
-[03:08:32] [Server thread/INFO]: [spark] Starting background profiler...
-[03:08:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.71]
-[03:08:32] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
-[03:08:33] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[03:08:33] [Server thread/INFO]: Running delayed init tasks
-[03:08:33] [Server thread/INFO]: Skulls » Could not find any skulls, attempting to redownload them!
-[03:08:33] [Server thread/INFO]: Animotion Loading up all animotions...
-[03:08:33] [Server thread/INFO]: Animotion All animotions have been loaded.
-[03:08:33] [Server thread/INFO]: Done (22.531s)! For help, type "help"
-[03:08:33] [Server thread/INFO]: Timings Reset
-[03:08:33] [Craft Scheduler Thread - 5 - Skulls/INFO]: Skulls » Beginning initial download, it may take some time to insert all the skulls into the data file!
-[03:08:33] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] Checking for Updates ... 
-[03:08:33] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] No new version available
-[03:08:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: sbtags [1.0.1]
-[03:08:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[03:08:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
-[03:08:33] [Server thread/INFO]: 3 placeholder hook(s) registered!
-[03:08:37] [Craft Scheduler Thread - 5 - Skulls/INFO]: Skulls » Downloaded 101091 skulls in 4,704.018ms
-[03:08:39] [pool-54-thread-1/INFO]: Skulls » Finished inserting all heads into the data file!
-[03:08:54] [Server thread/INFO]: Server Plugins (27):
-[03:08:54] [Server thread/INFO]: Bukkit Plugins:
-[03:08:54] [Server thread/INFO]:  - AnimationsCore, *Animotion, ChatManager, Chunky, CommandPanels, ConditionalEvents, CustomizablePlayerModels, *EasyWhitelist, Elevator, eShulkerBox
-[03:08:54] [Server thread/INFO]:  LuckPerms, PlaceholderAPI, ProtocolLib, ServerListPlus, ServerVariables, Shopkeepers, SimpleTimer, SkinsRestorer, Skulls, Sleeper
-[03:08:54] [Server thread/INFO]:  spark, TAB, TerraformGenerator, TradeManager, Vault, WorldEdit, WorldGuard
-[03:09:07] [User Authenticator #0/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
-[03:09:07] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:53303] logged in with entity id 327 at ([world]1.5601740578381953, 36.5, 4.084353302299135)
-[03:11:21] [Async Chat Thread - #1/INFO]: [Not Secure] [Default] Sarh_a180_23 > ֎
-[03:18:39] [Async Chat Thread - #2/INFO]: [Not Secure] [Default] Sarh_a180_23 > ֎
-[03:18:41] [Async Chat Thread - #3/INFO]: [Not Secure] [Default] Sarh_a180_23 > ֎
-[03:19:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta amarilla @a actionbar
-[03:19:27] [Server thread/INFO]: Added tag 'anim.ruleta.amarilla.mini.actionbar' to Sarh_a180_23
-[03:19:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta amarilla @a actionbar
-[03:19:49] [Server thread/INFO]: Added tag 'anim.ruleta.amarilla.mini.actionbar' to Sarh_a180_23
-[03:20:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /skulls
-[03:20:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[03:20:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[03:20:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Skulls' to create a bStats instance!
-[03:20:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[03:20:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[03:20:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'CommandPanels' to create a bStats instance!
-[03:20:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /pl
-[03:20:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim
-[03:21:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a title Funciona
-[03:21:38] [Server thread/INFO]: Added tag 'anim.ruleta.verde' to Sarh_a180_23
-[03:25:42] [Async Chat Thread - #4/INFO]: [Not Secure] [Default] Sarh_a180_23 > ®
-[03:28:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /setworldspawn
-[03:28:19] [Server thread/INFO]: [Sarh_a180_23: Set the world spawn point to 0, 37, 0 [0.0]]
-[03:28:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule spawnRadius 0
-[03:28:42] [Server thread/INFO]: [Sarh_a180_23: Gamerule spawnRadius is now set to: 0]
-[03:29:10] [Server thread/INFO]: [TAB] Disabled in 1ms
-[03:29:10] [Server thread/INFO]: [TAB] Enabled in 21ms
-[03:29:10] [Server thread/INFO]: [TAB] [TAB] Successfully reloaded
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04:30:30] [Server thread/INFO]: [Elevator] Disabling Elevator v3.0.8
+[04:30:30] [Server thread/INFO]: [ServerVariables] Enabling ServerVariables v2.5.3
+[04:30:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: servervariables [2.5.3]
+[04:30:30] [Server thread/INFO]: [ServerVariables] Has been enabled! Version: 2.5.3
+[04:30:30] [Server thread/INFO]: [ServerVariables] Thanks for using my plugin!   ~Ajneb97
+[04:30:30] [Server thread/INFO]: [CustomizablePlayerModels] Enabling CustomizablePlayerModels v0.6.17a
+[04:30:30] [Server thread/INFO]: [CustomizablePlayerModels] Customizable Player Models Initialized
+[04:30:30] [Server thread/INFO]: [eShulkerBox] Enabling eShulkerBox v0.6.3
+[04:30:30] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin initializing...
+[04:30:30] [Server thread/INFO]: [ShulkerBox] Initialized 'MessageService'
+[04:30:30] [Server thread/INFO]: [ShulkerBox] Initialized 'CommandService'
+[04:30:30] [Server thread/INFO]: [ShulkerBox] Initialized 'CommandTabListService'
+[04:30:30] [Server thread/INFO]: [Item Mechanic] Loading custom shulker box default_shulkerbox.yaml...
+[04:30:30] [Server thread/INFO]: [Item Mechanic] Loading recipe for custom shulker box default_shulkerbox.yaml...
+[04:30:31] [Server thread/INFO]: [ShulkerBox] Recipe added to the server!
+[04:30:31] [Server thread/INFO]: [Item Mechanic] The custom shulker box default_shulkerbox.yaml was loaded successfully!
+[04:30:31] [Server thread/INFO]: [ShulkerBox] Initialized 'ItemMechanic'
+[04:30:31] [Server thread/INFO]: [ShulkerBox] Initialized 'ShulkerBoxMechanic'
+[04:30:31] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin initialized in 276ms
+[04:30:31] [Server thread/INFO]: [spark] Enabling spark v1.10.71
+[04:30:31] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[04:30:31] [Server thread/INFO]: [spark] Starting background profiler...
+[04:30:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.71]
+[04:30:31] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[04:30:32] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[04:30:32] [Server thread/INFO]: Running delayed init tasks
+[04:30:32] [Server thread/INFO]: Skulls » Loaded 97395 skulls in 1,901.260ms
+[04:30:32] [Server thread/INFO]: Animotion Loading up all animotions...
+[04:30:32] [Server thread/INFO]: Animotion All animotions have been loaded.
+[04:30:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: sbtags [1.0.1]
+[04:30:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[04:30:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
+[04:30:32] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[04:30:32] [Server thread/INFO]: Done (20.775s)! For help, type "help"
+[04:30:32] [Craft Scheduler Thread - 7 - Skulls/INFO]: Skulls » Running database check :)
+[04:30:32] [Server thread/INFO]: Timings Reset
+[04:30:32] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
+[04:30:32] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
+[04:30:36] [Craft Scheduler Thread - 7 - Skulls/INFO]: Skulls » Everything looks up-to-date, no issues found. Enjoy!
+[04:31:28] [User Authenticator #0/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[04:31:28] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:37843] logged in with entity id 323 at ([world]-8.579984396751598, 36.0, 0.18831810474699892)
+[04:34:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /skin menu
+[04:34:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[04:34:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[04:34:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'CommandPanels' to create a bStats instance!
+[04:34:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /skin menu
+[04:36:54] [Async Chat Thread - #1/INFO]: [Not Secure] [Default] Sarh_a180_23 > ®
