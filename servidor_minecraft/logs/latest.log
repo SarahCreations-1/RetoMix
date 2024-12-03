@@ -320,3 +320,21 @@ Caused by: java.lang.UnsupportedClassVersionError: no/vestlandetmc/elevator/Elev
 [03:09:07] [User Authenticator #0/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
 [03:09:07] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:53303] logged in with entity id 327 at ([world]1.5601740578381953, 36.5, 4.084353302299135)
 [03:11:21] [Async Chat Thread - #1/INFO]: [Not Secure] [Default] Sarh_a180_23 > ֎
+[03:18:39] [Async Chat Thread - #2/INFO]: [Not Secure] [Default] Sarh_a180_23 > ֎
+[03:18:41] [Async Chat Thread - #3/INFO]: [Not Secure] [Default] Sarh_a180_23 > ֎
+[03:19:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta amarilla @a actionbar
+[03:19:27] [Server thread/INFO]: Added tag 'anim.ruleta.amarilla.mini.actionbar' to Sarh_a180_23
+[03:19:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta amarilla @a actionbar
+[03:19:49] [Server thread/INFO]: Added tag 'anim.ruleta.amarilla.mini.actionbar' to Sarh_a180_23
+[03:20:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /skulls
+[03:20:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[03:20:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[03:20:31] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Skulls' to create a bStats instance!
+[03:20:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[03:20:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[03:20:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'CommandPanels' to create a bStats instance!
+[03:20:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /pl
+[03:20:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim
+[03:21:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a title Funciona
+[03:21:38] [Server thread/INFO]: Added tag 'anim.ruleta.verde' to Sarh_a180_23
+[03:25:42] [Async Chat Thread - #4/INFO]: [Not Secure] [Default] Sarh_a180_23 > ®
