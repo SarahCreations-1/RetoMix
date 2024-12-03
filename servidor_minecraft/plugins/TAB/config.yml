@@ -4,7 +4,7 @@ header-footer:
   header:
     - "<#FFFFFF>&m                                                </#FFFF00>"
     - ""
-    - "😃"
+    - "®"
     - ""
     - "&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
     - "&7Online players: &f%online%"

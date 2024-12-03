@@ -338,3 +338,10 @@ Caused by: java.lang.UnsupportedClassVersionError: no/vestlandetmc/elevator/Elev
 [03:21:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a title Funciona
 [03:21:38] [Server thread/INFO]: Added tag 'anim.ruleta.verde' to Sarh_a180_23
 [03:25:42] [Async Chat Thread - #4/INFO]: [Not Secure] [Default] Sarh_a180_23 > ®
+[03:28:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /setworldspawn
+[03:28:19] [Server thread/INFO]: [Sarh_a180_23: Set the world spawn point to 0, 37, 0 [0.0]]
+[03:28:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule spawnRadius 0
+[03:28:42] [Server thread/INFO]: [Sarh_a180_23: Gamerule spawnRadius is now set to: 0]
+[03:29:10] [Server thread/INFO]: [TAB] Disabled in 1ms
+[03:29:10] [Server thread/INFO]: [TAB] Enabled in 21ms
+[03:29:10] [Server thread/INFO]: [TAB] [TAB] Successfully reloaded
