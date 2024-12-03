@@ -112,7 +112,7 @@ Events:
     - '%block% == COBWEB'
     actions:
       default:
-      - 'summon: location:%block_x%,%block_y%,%block_z%,%block_world%;entity:CAVE_SPIDER;amount:3'
+      - 'summon: location:%block_x%,%block_y%,%block_z%,%block_world%;entity:CAVE_SPIDER;amount:1'
   phantoms_blindness:
     type: player_damage
     enabled: false

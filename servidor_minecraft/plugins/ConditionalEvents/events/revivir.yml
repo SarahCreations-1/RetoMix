@@ -18,6 +18,6 @@ Events:
     - '%player_gamemode% == SPECTATOR'
     actions:
       default:
-      - 'to_all: message: &b&l%player% &3ha revivido.'
+      - 'to_all: message: &b&l%player% &l&3ha resusitado de entre los muertos.'
       - 'console_command: tp %player% @e[tag=fogata_h,limit=1]'
       - 'gamemode: SURVIVAL'
