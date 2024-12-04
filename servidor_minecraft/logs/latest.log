@@ -574,3 +574,6 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [04:11:35] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 70.000000, 0.500000]
 [04:11:45] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl stone 5
 [04:14:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard reload
+[04:18:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard reload
+[04:23:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta amarilla @a title <tu mensaje>
+[04:23:49] [Server thread/INFO]: Added tag 'anim.ruleta.amarilla' to Sarh_a180_23
