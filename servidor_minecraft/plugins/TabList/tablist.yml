@@ -35,6 +35,11 @@ random: false
 
 header:
 - "&5&m==========================\n%anim:tablist%"
+- ""
+- ""
+- "®"
+- ""
+- ""
 - "&7<75> %anim:welcome% %player%&c!&7 <74>"
 - ""
 - "&6Ping:&r %ping%&7ms&a TPS:&r %tps%\n"
