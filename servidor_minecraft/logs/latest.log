@@ -619,3 +619,27 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [05:04:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: sbtags [1.0.1]
 [05:04:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
 [05:04:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
+[05:05:15] [Server thread/INFO]: Sarh_a180_23 issued server command: /papi reload
+[05:05:15] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:05:15] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:05:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: sbtags [1.0.1]
+[05:05:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[05:05:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
+[05:05:18] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard reload
+[05:05:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard reload
+[05:06:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard reload
+[05:07:56] [Server thread/INFO]: Sarh_a180_23 issued server command: /eshulkerbox
+[05:08:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /eshulkerbox help
+[05:08:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /eshulkerbox create 1
+[05:08:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[05:08:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[05:08:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'CommandPanels' to create a bStats instance!
+[05:09:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /pl
+[05:09:56] [Server thread/INFO]: Sarh_a180_23 issued server command: /trademanager
+[05:09:56] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:12:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard reload
+[05:13:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:overworld run tp Sarh_a180_23 0 37 0
+[05:13:35] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 37.000000, 0.500000]
+[05:14:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanel template
+[05:14:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanel example
+[05:14:51] [Server thread/INFO]: Sarh_a180_23 has reached the goal [Eye of Darkness]

@@ -33,9 +33,8 @@ settings:
       - '&a&l▼ &bExample:'
       - '&f● &7Lobby: &b#1'
       - '&f● &7Ping: &b%player_ping%'
-      - '&f● &7Players:&6 %online-players%&7/&6%max-players%'
       - ""
-      - '&f● &fIP: &b<>'
+      - '&f● &fIP:'
 
   #Option to disable some scoreboards from worlds
   world-blacklist:
