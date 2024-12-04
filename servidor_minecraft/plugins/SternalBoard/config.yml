@@ -23,21 +23,19 @@ settings:
   mode: NORMAL
   scoreboard-interval-update: 20
   scoreboard:
-    title: ''
+    title: 
     lines:
-      - ®
-      - '&8&m+-------------------+'
-      - '&a&l▼ &bData:'
+      - '&a&l▼ &bData:&f®'
       - '&f● &7Nick: &b%player_name%'
       - '&f● &7Rank: &b%vault_rank%'
-      - '&f● &7Coins: &e%vault_eco_balance_formatted%'
+      - '&f● &7Coins:'
       - ''
       - '&a&l▼ &bExample:'
       - '&f● &7Lobby: &b#1'
       - '&f● &7Ping: &b%player_ping%'
-      - '&f● &7Players: &b%bungee_total%'
-      - ''
-      - '&f● &fIP: &bplay.yournetwork.com'
+      - '&f● &7Players:&6 %online-players%&7/&6%max-players%'
+      - ""
+      - '&f● &fIP: &b<>'
 
   #Option to disable some scoreboards from worlds
   world-blacklist:
