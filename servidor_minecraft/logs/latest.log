@@ -360,3 +360,21 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [21:33:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
 [21:33:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
 [21:33:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Skulls' to create a bStats instance!
+[21:44:19] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[21:44:19] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[21:44:19] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 70.000000, 25.500000]
+[21:44:19] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[21:44:19] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[21:44:19] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[21:44:19] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[21:44:19] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[21:44:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[21:44:23] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[21:44:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[21:44:24] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:44:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[21:44:27] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[21:44:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[21:44:31] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[21:44:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[21:44:33] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
