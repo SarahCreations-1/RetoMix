@@ -25,7 +25,7 @@ settings:
   scoreboard:
     title: 
     lines:
-      - '&a&l▼ &bData:&f®'
+      - '&a&l▼ &bData:&f҂'
       - '&f● &7Nick: &b%player_name%'
       - '&f● &7Rank: &f%vault_prefix%'
       - '&f● &7Coins:'

@@ -395,3 +395,10 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [05:19:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp group admin meta setprefix "୰"
 [05:19:20] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [G] (admin)
 [05:19:20] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 ୰
+[05:20:57] [Async Chat Thread - #10/INFO]: [Not Secure] ֎ Sarh_a180_23 > ߶
+[05:22:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp group nutria meta setprefix "߶"
+[05:22:06] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [G] (nutria)
+[05:22:06] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 ߶
+[05:22:53] [Async Chat Thread - #12/INFO]: [Not Secure] ֎ Sarh_a180_23 > ҂
+[05:24:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /tablist reload
+[05:24:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard reload
