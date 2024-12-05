@@ -430,3 +430,107 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.bukkit.configurati
 [01:05:24] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
 [01:05:26] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
 [01:05:26] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[01:05:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
+[01:05:45] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
+[01:06:56] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[01:06:56] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[01:06:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
+[01:06:59] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
+[01:07:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[01:07:22] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[01:08:34] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to CommandPanels v3.21.4.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.ConfigurationSection.getString(String)" because the return value of "me.rockyhawk.commandpanels.api.Panel.getConfig()" is null
+	at me.rockyhawk.commandpanels.openwithitem.HotbarItemLoader.stationaryExecute(HotbarItemLoader.java:47) ~[CommandPanels (1).jar:?]
+	at me.rockyhawk.commandpanels.openwithitem.UtilsOpenWithItem.onAnyClick(UtilsOpenWithItem.java:44) ~[CommandPanels (1).jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor311.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:git-Paper-196]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleSetCreativeModeSlot(ServerGamePacketListenerImpl.java:3449) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundSetCreativeModeSlotPacket.handle(ServerboundSetCreativeModeSlotPacket.java:18) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundSetCreativeModeSlotPacket.handle(ServerboundSetCreativeModeSlotPacket.java:12) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:08:37] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to CommandPanels v3.21.4.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.ConfigurationSection.getString(String)" because the return value of "me.rockyhawk.commandpanels.api.Panel.getConfig()" is null
+	at me.rockyhawk.commandpanels.openwithitem.HotbarItemLoader.stationaryExecute(HotbarItemLoader.java:47) ~[CommandPanels (1).jar:?]
+	at me.rockyhawk.commandpanels.openwithitem.UtilsOpenWithItem.onAnyClick(UtilsOpenWithItem.java:44) ~[CommandPanels (1).jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor311.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:git-Paper-196]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleSetCreativeModeSlot(ServerGamePacketListenerImpl.java:3449) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundSetCreativeModeSlotPacket.handle(ServerboundSetCreativeModeSlotPacket.java:18) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundSetCreativeModeSlotPacket.handle(ServerboundSetCreativeModeSlotPacket.java:12) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:08:42] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[01:08:46] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[01:08:46] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:36987] logged in with entity id 1109 at ([world]0.009870649232183738, 37.5, 2.0660400500316034)
+[01:08:50] [Server thread/ERROR]: Could not pass event InventoryCreativeEvent to CommandPanels v3.21.4.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.ConfigurationSection.getString(String)" because the return value of "me.rockyhawk.commandpanels.api.Panel.getConfig()" is null
+	at me.rockyhawk.commandpanels.openwithitem.HotbarItemLoader.stationaryExecute(HotbarItemLoader.java:47) ~[CommandPanels (1).jar:?]
+	at me.rockyhawk.commandpanels.openwithitem.UtilsOpenWithItem.onAnyClick(UtilsOpenWithItem.java:44) ~[CommandPanels (1).jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor311.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:git-Paper-196]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleSetCreativeModeSlot(ServerGamePacketListenerImpl.java:3449) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundSetCreativeModeSlotPacket.handle(ServerboundSetCreativeModeSlotPacket.java:18) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundSetCreativeModeSlotPacket.handle(ServerboundSetCreativeModeSlotPacket.java:12) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:09:34] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[01:09:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[01:10:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[01:10:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[01:11:17] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[01:12:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[01:12:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[01:12:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanel itssos
+[01:13:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpaneledit

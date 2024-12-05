@@ -1,7 +1,7 @@
 panels:
   menu_ruleta:
     perm: default
-    rows: 4
+    rows: 5
     title: '-'
     open-with-item:
       material: ENDER_PEARL
@@ -12,7 +12,7 @@ panels:
       stationary: 17
     empty: BLACK_STAINED_GLASS_PANE
     item:
-      '13':
+      '22':
         material: OAK_BUTTON
         stack: 1
         name: ''
