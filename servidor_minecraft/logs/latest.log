@@ -414,3 +414,32 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [21:59:59] [Server thread/INFO]: [Sarh_a180_23: Applied effect Night Vision to Sarh_a180_23]
 [22:00:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /effect give Sarh_a180_23 minecraft:night_vision infinite
 [22:00:01] [Server thread/INFO]: [Sarh_a180_23: Applied effect Night Vision to Sarh_a180_23]
+[22:11:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[22:11:47] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[22:12:07] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
+[22:12:26] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
+[22:12:36] [Server thread/INFO]: Sarh_a180_23 issued server command: //set deepslate_bricks
+[22:12:40] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[22:12:40] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[22:12:40] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 25.500000, 70.000000, 0.500000]
+[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[22:12:40] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 70.000000, -24.500000]
+[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
+[22:12:40] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to -24.500000, 70.000000, 0.500000]
+[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
+[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
+[22:12:57] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace stone deepslate_bricks
+[22:13:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[22:13:01] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
