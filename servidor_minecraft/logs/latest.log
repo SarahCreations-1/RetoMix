@@ -509,3 +509,27 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [22:47:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill
 [22:47:29] [Server thread/INFO]: Sarh_a180_23 was killed
 [22:47:29] [Server thread/INFO]: [Sarh_a180_23: Killed Sarh_a180_23]
+[22:48:08] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:lobbybienvenida run tp Sarh_a180_23 0 70 0
+[22:48:08] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 70.000000, 0.500000]
+[22:48:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule spawnRadius 0
+[22:48:21] [Server thread/INFO]: [Sarh_a180_23: Gamerule spawnRadius is now set to: 0]
+[22:48:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule doImmediateRespawn
+[22:48:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule doImmediateRespawn
+[22:48:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule doImmediateRespawn true
+[22:48:39] [Server thread/INFO]: [Sarh_a180_23: Gamerule doImmediateRespawn is now set to: true]
+[22:49:00] [Server thread/INFO]: Sarh_a180_23 issued server command: /setworldspawn
+[22:49:00] [Server thread/INFO]: [Sarh_a180_23: Set the world spawn point to -3, 96, -6 [0.0]]
+[22:49:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill
+[22:49:05] [Server thread/INFO]: Sarh_a180_23 was killed
+[22:49:05] [Server thread/INFO]: [Sarh_a180_23: Killed Sarh_a180_23]
+[22:49:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:lobbybienvenida run tp Sarh_a180_23 0 70 0
+[22:49:12] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 70.000000, 0.500000]
+[22:52:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /tablist reload
+[22:52:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /tablist reload
+[22:53:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp user Sarh_a180_23 parent set default
+[22:53:21] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [U] (sarh_a180_23)
+[22:53:21] [luckperms-command-executor/INFO]: [LP] LOG > parent set default
+[22:55:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /tablist reload
+[22:55:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[22:55:49] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[22:56:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /up 1
