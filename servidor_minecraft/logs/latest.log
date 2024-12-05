@@ -393,3 +393,18 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.bukkit.configurati
 [00:43:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanel menu_ruleta
 [00:44:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
 [00:44:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanel menu_ruleta
+[00:46:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelgenerate
+[00:46:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelgenerate 1
+[00:46:32] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelgenerate 3
+[00:46:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelgenerate 3
+[00:47:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:47:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanel menu_ruleta
+[00:50:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:50:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanel menu_ruleta
+[00:52:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:53:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:53:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:53:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[00:53:54] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[00:54:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[00:54:26] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
