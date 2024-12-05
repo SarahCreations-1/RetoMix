@@ -1,43 +1,11 @@
 Config:
   update_notification: true
-  data_save_time: 5
+  data_save_time: -1
   debug_actions: true
   experimental:
     variable_replacement: false
   register_commands:
-  - hello
-  - ruleta verde @a title <Tu mensaje>
-  - ruleta verde @a subtitle <Tu mensaje>
-  - ruleta verde @a actionbar <Tu mensaje>
-  - ruleta verde @a scoreboard <Tu mensaje>
-  - ruleta turqueza @a title <Tu mensaje>
-  - ruleta turqueza @a subtitle <Tu mensaje>
-  - ruleta turqueza @a actionbar <Tu mensaje>
-  - ruleta turqueza @a scoreboard <Tu mensaje>
-  - ruleta azul @a title <Tu mensaje>
-  - ruleta azul @a subtitle <Tu mensaje>
-  - ruleta azul @a actionbar <Tu mensaje>
-  - ruleta azul @a scoreboard <Tu mensaje>
-  - ruleta morada @a title <Tu mensaje>
-  - ruleta morada @a subtitle <Tu mensaje>
-  - ruleta morada @a actionbar <Tu mensaje>
-  - ruleta morada @a scoreboard <Tu mensaje>
-  - ruleta rosada @a title <Tu mensaje>
-  - ruleta rosada @a subtitle <Tu mensaje>
-  - ruleta rosada @a actionbar <Tu mensaje>
-  - ruleta rosada @a scoreboard <Tu mensaje>
-  - ruleta roja @a title <Tu mensaje>
-  - ruleta roja @a subtitle <Tu mensaje>
-  - ruleta roja @a actionbar <Tu mensaje>
-  - ruleta roja @a scoreboard <Tu mensaje>
-  - ruleta naranja @a title <Tu mensaje>
-  - ruleta naranja @a subtitle <Tu mensaje>
-  - ruleta naranja @a actionbar <Tu mensaje>
-  - ruleta naranja @a scoreboard <Tu mensaje>
-  - ruleta amarilla @a title <Tu mensaje>
-  - ruleta amarilla @a subtitle <Tu mensaje>
-  - ruleta amarilla @a actionbar <Tu mensaje>
-  - ruleta amarilla @a scoreboard <Tu mensaje>
+  - ruleta
   to_condition_groups:
     group1:
     - '%player_has_permission_conditionalevents.somepermission% == yes'

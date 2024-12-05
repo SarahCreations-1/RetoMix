@@ -1,0 +1,18 @@
+panels:
+  menu_ruleta:
+    perm: default
+    rows: 4
+    title: '-'
+    open-with-item:
+      material: ENDER_PEARL
+      customdata: 1
+      name: '&a&lMenu Principal'
+      lore:
+      - '&6&lDa clic sobre el item para abrir el menu'
+      stationary: 17
+    empty: BLACK_STAINED_GLASS_PANE
+    item:
+      '13':
+        material: OAK_BUTTON
+        stack: 1
+        name: ''

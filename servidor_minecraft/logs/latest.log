@@ -408,3 +408,25 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.bukkit.configurati
 [00:53:54] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
 [00:54:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [00:54:26] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[00:55:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:56:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:57:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:57:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:57:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:57:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[00:59:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /commandpanelreload
+[01:00:03] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta amarilla @a actionbar <tu mensaje>
+[01:00:03] [Server thread/INFO]: Added tag 'anim.ruleta.amarilla.mini.actionbar' to Sarh_a180_23
+[01:02:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[01:02:30] [Server thread/INFO]: [ConditionalEvents] Config Reloaded.
+[01:02:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /hello
+[01:03:04] [Server thread/INFO]: [ConditionalEvents] Config Reloaded.
+[01:03:14] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[01:03:30] [Server thread/INFO]: [ConditionalEvents] Config Reloaded.
+[01:03:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /rules
+[01:04:12] [Server thread/INFO]: [ConditionalEvents] Config Reloaded.
+[01:04:18] [Server thread/INFO]: [ConditionalEvents] Config Reloaded.
+[01:05:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[01:05:24] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[01:05:26] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[01:05:26] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
