@@ -343,7 +343,7 @@ Chat_Format:
   Enable: true
 
   #This will only be used if the players permission group isn't on the bottom of this section.
-  Default_Format: "{vault_prefix} &7{player} &9> &7{message}"
+  Default_Format: "{vault_prefix} &f{player} &6> &f{message}"
 
   #Chat Formats are set depending on what permission group the player is in.
   #If a player is in the permission group named "Default" they will have the default chat format.

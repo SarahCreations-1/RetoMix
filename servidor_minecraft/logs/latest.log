@@ -359,3 +359,39 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [05:08:51] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [G] (default)
 [05:08:51] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 ֎
 [05:08:54] [Async Chat Thread - #2/INFO]: [Not Secure] [Default] Sarh_a180_23 > asfas
+[05:09:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp group default meta setprefix "֎&f"
+[05:09:45] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [G] (default)
+[05:09:45] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 ֎&f
+[05:09:47] [Async Chat Thread - #3/INFO]: [Not Secure] [Default] Sarh_a180_23 > asd
+[05:09:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /chatmanager reload
+[05:09:59] [Async Chat Thread - #2/INFO]: [Not Secure] ֎ Sarh_a180_23 > asda
+[05:11:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /chatmanager reload
+[05:11:10] [Async Chat Thread - #4/INFO]: [Not Secure] ֎ Sarh_a180_23 > asda
+[05:12:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard reload
+[05:12:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /papi ecloud download Vault
+[05:12:50] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:12:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /papi reload
+[05:12:56] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:12:56] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:12:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: sbtags [1.0.1]
+[05:12:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[05:12:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[05:12:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
+[05:13:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /papi reload
+[05:13:06] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:13:06] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:13:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: sbtags [1.0.1]
+[05:13:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[05:13:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[05:13:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
+[05:13:14] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard reload
+[05:13:18] [Async Chat Thread - #6/INFO]: [Not Secure] ֎ Sarh_a180_23 > asdas
+[05:15:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /tablist reload
+[05:15:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /tablist reload
+[05:15:53] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[05:16:22] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[05:16:22] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:53289] logged in with entity id 648 at ([world]-3.3713211124445035, 36.0, 0.8144562660239724)
+[05:16:38] [Async Chat Thread - #8/INFO]: [Not Secure] ֎ Sarh_a180_23 > ୰
+[05:19:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp group admin meta setprefix "୰"
+[05:19:20] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [G] (admin)
+[05:19:20] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 ୰
