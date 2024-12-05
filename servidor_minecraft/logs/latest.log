@@ -488,3 +488,11 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [22:24:38] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace granite air
 [22:25:08] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace coal_ore air
 [22:25:15] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace iron_ore air
+[22:28:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[22:28:49] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[22:29:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[22:29:30] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[22:34:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[22:34:46] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[22:35:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[22:35:46] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
