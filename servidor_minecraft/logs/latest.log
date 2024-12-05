@@ -572,3 +572,15 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [23:14:46] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
 [23:14:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [23:14:48] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[23:24:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[23:24:01] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[23:24:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[23:24:04] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[23:24:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[23:24:06] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[23:24:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[23:24:11] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[23:27:30] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[23:27:32] [User Authenticator #2/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[23:27:32] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:49531] logged in with entity id 1638 at ([world_minecraft_lobbybienvenida]-0.6316917117449712, 91.12678306026304, -45.25807618782017)
+[23:27:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim play Giro !
