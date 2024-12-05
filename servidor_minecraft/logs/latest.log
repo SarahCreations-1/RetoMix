@@ -533,3 +533,16 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [22:55:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
 [22:55:49] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
 [22:56:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /up 1
+[22:58:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim
+[22:58:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim edit
+[22:58:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim edit Giro
+[22:58:45] [Server thread/INFO]: Sarh_a180_23 has reached the goal [Strengthened by Fire]
+[23:01:25] [Server thread/INFO]: Animotion You must have at least 2 steps to save animotions!
+[23:02:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /am play Giro
+[23:02:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim
+[23:03:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim edit
+[23:03:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim stop
+[23:06:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[23:06:41] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[23:06:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[23:06:43] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
