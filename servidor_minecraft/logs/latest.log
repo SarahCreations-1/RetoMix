@@ -410,3 +410,7 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [21:55:10] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
 [21:55:14] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [21:55:14] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[21:59:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /effect give Sarh_a180_23 minecraft:night_vision
+[21:59:59] [Server thread/INFO]: [Sarh_a180_23: Applied effect Night Vision to Sarh_a180_23]
+[22:00:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /effect give Sarh_a180_23 minecraft:night_vision infinite
+[22:00:01] [Server thread/INFO]: [Sarh_a180_23: Applied effect Night Vision to Sarh_a180_23]
