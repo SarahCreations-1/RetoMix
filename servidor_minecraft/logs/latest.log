@@ -443,3 +443,48 @@ java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
 [22:12:57] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace stone deepslate_bricks
 [22:13:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [22:13:01] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[22:18:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /effect clear Sarh_a180_23
+[22:18:11] [Server thread/INFO]: [Sarh_a180_23: Removed every effect from Sarh_a180_23]
+[22:18:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[22:18:16] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[22:20:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[22:20:50] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[22:20:52] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[22:20:52] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[22:20:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[22:20:55] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[22:21:00] [Server thread/INFO]: Sarh_a180_23 issued server command: //wand
+[22:21:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[22:21:02] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[22:21:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[22:21:10] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[22:21:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[22:21:13] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[22:21:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[22:21:20] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[22:21:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[22:21:23] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[22:21:28] [Server thread/INFO]: Sarh_a180_23 issued server command: //copy
+[22:21:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[22:21:31] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[22:21:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[22:21:33] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[22:21:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:lobbybienvenida run tp Sarh_a180_23 0 70 0
+[22:21:51] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 70.000000, 0.500000]
+[22:21:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[22:21:54] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[22:21:58] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[22:22:10] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[22:22:38] [Server thread/INFO]: Sarh_a180_23 issued server command: //rotate 0 90 0
+[22:22:41] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[22:23:18] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace deepslate_bricks air
+[22:23:24] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace stone air
+[22:23:56] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace oak_log air
+[22:24:06] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace spruce_stairs air
+[22:24:15] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace barrel air
+[22:24:21] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace tuff air
+[22:24:27] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace andesite air
+[22:24:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace diorite air
+[22:24:38] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace granite air
+[22:25:08] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace coal_ore air
+[22:25:15] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace iron_ore air
