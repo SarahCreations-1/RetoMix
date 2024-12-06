@@ -1,586 +1,565 @@
-[21:27:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:27:15] [ServerMain/WARN]: Invalid path in datapack: fokastudio:worldgen/biome/README.md, ignoring
-[21:27:17] [ServerMain/INFO]: Loaded 7 recipes
-[21:27:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:27:18] [Server thread/INFO]: Loading properties
-[21:27:18] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[21:27:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:27:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:27:19] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[23:01:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:01:15] [ServerMain/WARN]: Invalid path in datapack: fokastudio:worldgen/biome/README.md, ignoring
+[23:01:18] [ServerMain/INFO]: Loaded 7 recipes
+[23:01:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:01:18] [Server thread/INFO]: Loading properties
+[23:01:18] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[23:01:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:01:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:01:19] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[21:27:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[21:27:19] [Server thread/INFO]: Default game type: SURVIVAL
-[21:27:19] [Server thread/INFO]: Generating keypair
-[21:27:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:27:19] [Server thread/INFO]: Using epoll channel type
-[21:27:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:27:19] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:27:20] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[21:27:23] [Server thread/WARN]: Legacy plugin Animotion v1.0_i_patch3 does not specify an api-version.
-[21:27:23] [Server thread/WARN]: Legacy plugin EasyWhitelist v1.0.2 does not specify an api-version.
-[21:27:23] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[21:27:23] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[21:27:23] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.18+6616-abda4e0
-[21:27:24] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1bd67c4d]
-[21:27:24] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
-[21:27:24] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[21:27:24] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[21:27:24] [Server thread/INFO]: [SCore] Loading server plugin SCore v5.24.12.3
-[21:27:24] [Server thread/INFO]: [AnimationsCore] Loading server plugin AnimationsCore v0.1-SNAPSHOT
-[21:27:24] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.58.1
-[21:27:24] [Server thread/INFO]: [CommandPanels] Loading server plugin CommandPanels v3.21.4.3
-[21:27:24] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.17.2
-[21:27:24] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (377 ms).
-[21:27:24] [Server thread/INFO]: [Shopkeepers] Loading config.
-[21:27:24] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[21:27:24] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
-[21:27:24] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[21:27:24] [Server thread/INFO]: [SternalBoard] Loading server plugin SternalBoard v2.3.0
-[21:27:24] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v17.0.1
-[21:27:24] [Server thread/INFO]: [TradeManager] Loading server plugin TradeManager v1.3.7
-[21:27:24] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.5.3
-[21:27:24] [Server thread/INFO]: [TabList] Loading server plugin TabList v5.7.7
-[21:27:24] [Server thread/INFO]: [SimpleTimer] Loading server plugin SimpleTimer v1.5.2
-[21:27:24] [Server thread/INFO]: [ServerListPlus] Loading server plugin ServerListPlus v3.5.0
-[21:27:24] [Server thread/INFO]: [Animotion] Loading server plugin Animotion v1.0_i_patch3
-[21:27:24] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[21:27:24] [Server thread/INFO]: [Skulls] Loading server plugin Skulls v3.21.0
-[21:27:24] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
-[21:27:24] [Server thread/INFO]: [EasyWhitelist] Loading server plugin EasyWhitelist v1.0.2
-[21:27:24] [Server thread/INFO]: [ChatManager] Loading server plugin ChatManager v3.7.7
-[21:27:24] [Server thread/INFO]: [Elevator] Loading server plugin Elevator v3.0.8
-[21:27:24] [Server thread/INFO]: [ExecutableItems] Loading server plugin ExecutableItems v7.24.12.3
-[21:27:24] [Server thread/INFO]: [ServerVariables] Loading server plugin ServerVariables v2.5.3
-[21:27:24] [Server thread/INFO]: [CustomizablePlayerModels] Loading server plugin CustomizablePlayerModels v0.6.17a
-[21:27:24] [Server thread/INFO]: [eShulkerBox] Loading server plugin eShulkerBox v0.6.3
-[21:27:24] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin loading...
-[21:27:24] [Server thread/WARN]: [ShulkerBox] YOU ARE USING FREE eShulkerBox VERSION
-[21:27:24] [Server thread/WARN]: [ShulkerBox] We recommend using the paid version https://builtbybit.com/resources/eshulkerbox.41479/
-[21:27:24] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin loaded in 55ms
-[21:27:24] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.71
-[21:27:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:27:24] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[21:27:25] [pool-17-thread-1/INFO]: [ShulkerBox] Unable to check for updates: https://api.spigotmc.org/legacy/update.php?resource=-1
-[21:27:25] [Server thread/INFO]:         __    
-[21:27:25] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[21:27:25] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[21:27:25] [Server thread/INFO]: 
-[21:27:25] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[21:27:25] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[21:27:26] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[21:27:26] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[21:27:26] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1937ms)
-[21:27:26] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[21:27:26] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[21:27:26] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[21:27:26] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[21:27:26] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.18+6616-abda4e0
-[21:27:26] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[21:27:27] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[21:27:27] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
-[21:27:28] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[21:27:28] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v17.0.1
-[21:27:28] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
-[21:27:29] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
-[21:27:29] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.20.1, number: 20.1
-[21:27:29] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[21:27:29] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[21:27:29] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[21:27:29] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:27:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
-[21:27:29] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[21:27:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:27:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:27:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:27:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:27:30] [Server thread/INFO]: Preparing level "world"
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:27:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:27:30] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
-[21:27:30] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
-[21:27:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:27:31] [Server thread/INFO]: Time elapsed: 226 ms
-[21:27:31] [Server thread/INFO]: [TerraformGenerator] world loaded.
-[21:27:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:27:31] [Server thread/INFO]: Time elapsed: 60 ms
-[21:27:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:27:31] [Server thread/INFO]: Time elapsed: 67 ms
-[21:27:31] [Server thread/INFO]: Preparing start region for dimension minecraft:cinematicas
-[21:27:31] [Server thread/INFO]: Time elapsed: 178 ms
-[21:27:31] [Server thread/INFO]: Preparing start region for dimension minecraft:lobbybienvenida
-[21:27:31] [Server thread/INFO]: Time elapsed: 35 ms
-[21:27:31] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_minecraft_cinematicas) TNT ignition is PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_minecraft_cinematicas) Lighters are PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_minecraft_cinematicas) Lava fire is PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_minecraft_cinematicas) Fire spread is UNRESTRICTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_minecraft_cinematicas'
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_minecraft_lobbybienvenida) TNT ignition is PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_minecraft_lobbybienvenida) Lighters are PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_minecraft_lobbybienvenida) Lava fire is PERMITTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] (world_minecraft_lobbybienvenida) Fire spread is UNRESTRICTED.
-[21:27:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_minecraft_lobbybienvenida'
-[21:27:32] [Server thread/INFO]: [WorldGuard] Loading region data...
-[21:27:32] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[21:27:33] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[21:27:33] [Server thread/INFO]: [SCore] Enabling SCore v5.24.12.3
-[21:27:33] [Server thread/INFO]: ================ SCore ================
-[21:27:33] [Server thread/INFO]: SCore is running on Folia
-[21:27:33] [Server thread/INFO]: SCore is running on Paper or fork
-[21:27:33] [Server thread/INFO]: SCore Version of the server git-Paper-196 (MC: 1.20.1) !
-[21:27:33] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.24.12.3) Load After
-[21:27:33] [Server thread/INFO]: SCore PlaceholderAPI hooked !  (2.11.6)  Load Before
-[21:27:33] [Server thread/INFO]: SCore WorldGuard hooked !  (7.0.9+5934e49)  Load Before
-[21:27:33] [Server thread/INFO]: SCore Vault hooked !  (1.7.3-b131)  Load Before
-[21:27:33] [Server thread/INFO]: SCore ProtocolLib hooked !
-[21:27:33] [Server thread/INFO]: SCore Locale setup: EN
-[21:27:33] [Server thread/INFO]: SCore WorldEdit hooked !  (7.2.18+6616-abda4e0)  Load Before
-[21:27:33] [Server thread/INFO]: SCore Language of the editor setup on EN
-[21:27:33] [Server thread/INFO]: SCore Language for in-game messages setup on EN
-[21:27:33] [Server thread/INFO]: SCore will connect to the database hosted: In Local
-[21:27:33] [Server thread/INFO]: SCore Connection to the db...
-[21:27:33] [Server thread/INFO]: SCore will connect to the database hosted: In Local
-[21:27:33] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
-[21:27:33] [Server thread/INFO]: SCore Creating table Commands if not exists...
-[21:27:33] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
-[21:27:33] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
-[21:27:33] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
-[21:27:33] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
-[21:27:33] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
-[21:27:34] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
-[21:27:34] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
-[21:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SCore [1.0.0]
-[21:27:34] [Server thread/INFO]: ================ SCore ================
-[21:27:34] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
-[21:27:34] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Commands' - this is deprecated behavior, please report it to the authors: 
-[21:27:34] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
-[21:27:34] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Command: animation' - this is deprecated behavior, please report it to the authors: 
-[21:27:34] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
-[21:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.58.1]
-[21:27:34] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.58.1
-[21:27:34] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[21:27:34] [Server thread/INFO]: [CommandPanels] Enabling CommandPanels v3.21.4.3
-[21:27:34] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loading...
-[21:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: commandpanels [1.0.0]
-[21:27:35] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loaded!
-[21:27:35] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.17.2
-[21:27:35] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.0
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-legacy
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-plain
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-ansi
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-nbt
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json-legacy-impl
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson-legacy-impl
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-minimessage
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-api
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library examination-api
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-api
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-bukkit
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-facet
-[21:27:35] [Server thread/INFO]: [SternalBoard] Loading library adventure-key
-[21:27:35] [Server thread/INFO]: [TradeManager] Enabling TradeManager v1.3.7
-[21:27:35] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.3
-[21:27:35] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.3 Has Been Enabled!
-[21:27:35] [Server thread/INFO]: [TabList] Enabling TabList v5.7.7
-[21:27:35] [Server thread/INFO]: [TabList] Found PlaceholderAPI version: 2.11.6
-[21:27:35] [Server thread/INFO]: [TabList] v5.7.7 on v1_20_1 (158ms)
-[21:27:35] [Server thread/INFO]: [SimpleTimer] Enabling SimpleTimer v1.5.2
-[21:27:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: simpletimer [1.5.2]
-[21:27:35] [Server thread/INFO]: [SimpleTimer] Successfully Enabled (v1.5.2)
-[21:27:35] [Server thread/INFO]: [SimpleTimer] Xhasi » Thanks for using my plugin
-[21:27:35] [Server thread/INFO]: [SimpleTimer] There is a new version available. (v1.6.0)
-[21:27:35] [Server thread/INFO]: [SimpleTimer] You can download it at: https://www.spigotmc.org/resources/109565/
-[21:27:35] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.5.0
-[21:27:36] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
-[21:27:36] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
-[21:27:36] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
-[21:27:36] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: BukkitConf
-[21:27:36] [Server thread/INFO]: [ServerListPlus] ProtocolLib is no longer required (and used) by default when using Paper. If this causes compatibility issues with other plugins, try setting ProtocolLib: ENABLE
-[21:27:36] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
-[21:27:36] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
-[21:27:36] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.5.0 enabled.
-[21:27:36] [Server thread/INFO]: [Animotion] Enabling Animotion v1.0_i_patch3*
-[21:27:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: animotion [1a]
-[21:27:36] [Server thread/INFO]: Animotion PlaceholderAPI expansion has been enabled.
-[21:27:36] [Server thread/INFO]: Animotion WorldGuard extension has been enabled.
-[21:27:36] [Server thread/INFO]: Animotion Animotion is ready to use !
-[21:27:36] [Server thread/INFO]: Animotion An update is available.
-[21:27:36] [Server thread/INFO]: [Skulls] Enabling Skulls v3.21.0
-[21:27:36] [Server thread/INFO]:  
-[21:27:36] [Server thread/INFO]: =============================
-[21:27:36] [Server thread/INFO]: Skulls v3.21.0 by Tweetzy
-[21:27:36] [Server thread/INFO]: Developer: Kiran Hart
-[21:27:37] [Server thread/INFO]: Skulls » Skulls could not find an economy provider for Vault!
-[21:27:37] [Server thread/INFO]: [FlightCore] Enabling metrics for Skulls
-[21:27:37] [Server thread/INFO]: =============================
-[21:27:37] [Server thread/INFO]:  
-[21:27:37] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
-[21:27:37] [Server thread/INFO]: [EasyWhitelist] Enabling EasyWhitelist v1.0.2*
-[21:27:37] [Server thread/INFO]: EasyWhitelist > Config reloaded.
-[21:27:37] [Server thread/INFO]: E-Whitelist > Loaded!
-[21:27:37] [Server thread/INFO]: [ChatManager] Enabling ChatManager v3.7.7
-[21:27:37] [Server thread/INFO]: [ChatManager] Hooked into: PlaceholderAPI v2.11.6
-[21:27:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chatmanager [3.7.7]
-[21:27:37] [Server thread/INFO]: [ChatManager] Hooked into: Vault v1.7.3-b131
-[21:27:37] [Server thread/INFO]: [ChatManager] Hooked into: LuckPerms v5.4.131
-[21:27:38] [Server thread/INFO]: [ChatManager] Starting Metrics.
-[21:27:38] [Server thread/INFO]: =========================
-[21:27:38] [Server thread/INFO]: Chat Manager
-[21:27:38] [Server thread/INFO]: Version 3.7.7
-[21:27:38] [Server thread/INFO]: Author: H1DD3NxN1NJA
-[21:27:38] [Server thread/INFO]: =========================
-[21:27:38] [Server thread/INFO]: [Elevator] Enabling Elevator v3.0.8
-[21:27:38] [Server thread/INFO]: [Elevator] Detected 1.20.1-R0.1-SNAPSHOT.
-[21:27:38] [Server thread/INFO]: ___________ __                       __                
-[21:27:38] [Server thread/INFO]: \_   _____/|  |   _______  _______ _/  |_  ___________ 
-[21:27:38] [Server thread/INFO]:  |    __)_ |  | _/ __ \  \/ /\__  \\   __\/  _ \_  __ \
-[21:27:38] [Server thread/INFO]:  |        \|  |_\  ___/\   /  / __ \|  | (  <_> )  | \/
-[21:27:38] [Server thread/INFO]: /_______  /|____/\___  >\_/  (____  /__|  \____/|__|   
-[21:27:38] [Server thread/INFO]:         \/           \/           \/                   
-[21:27:38] [Server thread/INFO]: 
-[21:27:38] [Server thread/INFO]: Elevator v3.0.8
-[21:27:38] [Server thread/INFO]: Running on Paper
-[21:27:38] [Server thread/INFO]: Author: Baktus_79
-[21:27:38] [Server thread/INFO]: _______________________________________________________
-[21:27:38] [Server thread/INFO]: 
-[21:27:38] [Server thread/ERROR]: Error occurred while enabling Elevator v3.0.8 (Is it up to date?)
-java.lang.IllegalArgumentException: No enum constant org.bukkit.Particle.WITCH
-	at java.lang.Enum.valueOf(Enum.java:293) ~[?:?]
-	at org.bukkit.Particle.valueOf(Particle.java:9) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at no.vestlandetmc.elevator.config.Config.onLoad(Config.java:76) ~[Elevator.jar:?]
-	at no.vestlandetmc.elevator.config.Config.initialize(Config.java:194) ~[Elevator.jar:?]
-	at no.vestlandetmc.elevator.ElevatorPlugin.onEnable(ElevatorPlugin.java:52) ~[Elevator.jar:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[paper-1.20.1.jar:git-Paper-196]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugin(CraftServer.java:642) ~[paper-1.20.1.jar:git-Paper-196]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.enablePlugins(CraftServer.java:553) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:635) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:434) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:308) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[21:27:38] [Server thread/INFO]: [Elevator] Disabling Elevator v3.0.8
-[21:27:38] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.24.12.3
-[21:27:38] [Server thread/INFO]: ================ ExecutableItems ================
-[21:27:41] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 17
-[21:27:41] [Server thread/INFO]: ExecutableItems Items with display conditions :  
-[21:27:41] [Server thread/INFO]: ================ ExecutableItems ================
-[21:27:41] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ExecutableItems [1.0.0]
-[21:27:41] [Server thread/INFO]: [ServerVariables] Enabling ServerVariables v2.5.3
-[21:27:41] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: servervariables [2.5.3]
-[21:27:41] [Server thread/INFO]: [ServerVariables] Has been enabled! Version: 2.5.3
-[21:27:41] [Server thread/INFO]: [ServerVariables] Thanks for using my plugin!   ~Ajneb97
-[21:27:41] [Server thread/INFO]: [CustomizablePlayerModels] Enabling CustomizablePlayerModels v0.6.17a
-[21:27:41] [Server thread/INFO]: [CustomizablePlayerModels] Customizable Player Models Initialized
-[21:27:41] [Server thread/INFO]: [eShulkerBox] Enabling eShulkerBox v0.6.3
-[21:27:41] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin initializing...
-[21:27:41] [Server thread/INFO]: [ShulkerBox] Initialized 'CommandService'
-[21:27:41] [Server thread/INFO]: [ShulkerBox] Initialized 'MessageService'
-[21:27:41] [Server thread/WARN]: [Item Mechanic] There are no shulker boxes in the shulkerboxes folder!
-[21:27:41] [Server thread/INFO]: [ShulkerBox] Initialized 'ItemMechanic'
-[21:27:41] [Server thread/INFO]: [ShulkerBox] Initialized 'ShulkerBoxMechanic'
-[21:27:41] [Server thread/INFO]: [ShulkerBox] Initialized 'CommandTabListService'
-[21:27:41] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin initialized in 56ms
-[21:27:41] [Server thread/INFO]: [spark] Enabling spark v1.10.71
-[21:27:41] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
-[21:27:41] [Server thread/INFO]: [spark] Starting background profiler...
-[21:27:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.71]
-[21:27:42] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
-[21:27:42] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[21:27:42] [Server thread/INFO]: Running delayed init tasks
-[21:27:42] [Server thread/INFO]: Skulls » Loaded 97395 skulls in 5,144.869ms
-[21:27:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: sbtags [1.0.1]
-[21:27:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[21:27:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[21:27:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
-[21:27:42] [Server thread/INFO]: 4 placeholder hook(s) registered!
-[21:27:42] [Server thread/INFO]: Animotion Loading up all animotions...
-[21:27:42] [Server thread/INFO]: Animotion All animotions have been loaded.
-[21:27:42] [Server thread/INFO]: Done (24.663s)! For help, type "help"
-[21:27:42] [Server thread/INFO]: Timings Reset
-[21:27:42] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
-[21:27:42] [Craft Scheduler Thread - 8 - Skulls/INFO]: Skulls » Running database check :)
-[21:27:43] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
-[21:27:45] [Craft Scheduler Thread - 8 - Skulls/INFO]: Skulls » Everything looks up-to-date, no issues found. Enjoy!
-[21:28:06] [User Authenticator #0/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
-[21:28:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[21:28:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[21:28:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'CommandPanels' to create a bStats instance!
-[21:28:06] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:37493] logged in with entity id 319 at ([world]-6.173334090658362, 39.61650136792814, -0.5215900568793521)
-[21:28:25] [Async Chat Thread - #1/INFO]: [Not Secure] ֎ Sarh_a180_23 > asd
-[21:29:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound cpaladeds3:nutria
-[21:29:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound cpaladeds3:nutria player Sarh_a180_23
-[21:29:33] [Server thread/INFO]: [Sarh_a180_23: Played sound cpaladeds3:nutria to Sarh_a180_23]
-[21:29:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound cpaladeds3:ruleta player Sarh_a180_23
-[21:29:54] [Server thread/INFO]: [Sarh_a180_23: Played sound cpaladeds3:ruleta to Sarh_a180_23]
-[21:30:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound cpaladeds3:revivir player Sarh_a180_23
-[21:30:11] [Server thread/INFO]: [Sarh_a180_23: Played sound cpaladeds3:revivir to Sarh_a180_23]
-[21:30:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound cpaladeds3:revivir player Sarh_a180_23
-[21:30:22] [Server thread/INFO]: [Sarh_a180_23: Played sound cpaladeds3:revivir to Sarh_a180_23]
-[21:31:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp user Sarh_a180_23 parent set admin
-[21:31:24] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [U] (sarh_a180_23)
-[21:31:24] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
-[21:31:36] [Async Chat Thread - #2/INFO]: [Not Secure] ୰ Sarh_a180_23 > sadas
-[21:32:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /deop s
-[21:32:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /deop Sarh_a180_23
-[21:32:46] [Server thread/INFO]: [Sarh_a180_23: Made Sarh_a180_23 no longer a server operator]
-[21:32:58] [Server thread/INFO]: Made Sarh_a180_23 a server operator
-[21:33:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
-[21:33:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
-[21:33:49] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Skulls' to create a bStats instance!
-[21:44:19] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[21:44:19] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[21:44:19] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 70.000000, 25.500000]
-[21:44:19] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[21:44:19] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[21:44:19] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[21:44:19] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[21:44:19] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[21:44:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
-[21:44:23] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
-[21:44:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[21:44:24] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[21:44:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
-[21:44:27] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
-[21:44:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[21:44:31] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[21:44:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[21:44:33] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[21:48:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce disable cpala_muerte_anim
-[21:48:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill
-[21:48:37] [Server thread/INFO]: Sarh_a180_23 was killed
-[21:48:37] [Server thread/INFO]: [Sarh_a180_23: Killed Sarh_a180_23]
-[21:48:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill
-[21:48:44] [Server thread/INFO]: Sarh_a180_23 was killed
-[21:48:44] [Server thread/INFO]: [Sarh_a180_23: Killed Sarh_a180_23]
-[21:49:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[21:49:05] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[21:49:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[21:49:07] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[21:49:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode adventure
-[21:49:10] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Adventure Mode]
-[21:49:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
-[21:49:13] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
-[21:49:32] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[21:49:32] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[21:54:13] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl spruce_planks 28
-[21:54:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
-[21:54:46] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
-[21:54:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[21:54:48] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[21:54:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[21:54:49] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[21:54:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[21:54:51] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[21:55:00] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[21:55:00] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[21:55:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[21:55:10] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[21:55:14] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[21:55:14] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[21:59:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /effect give Sarh_a180_23 minecraft:night_vision
-[21:59:59] [Server thread/INFO]: [Sarh_a180_23: Applied effect Night Vision to Sarh_a180_23]
-[22:00:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /effect give Sarh_a180_23 minecraft:night_vision infinite
-[22:00:01] [Server thread/INFO]: [Sarh_a180_23: Applied effect Night Vision to Sarh_a180_23]
-[22:11:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[22:11:47] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[22:12:07] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
-[22:12:26] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
-[22:12:36] [Server thread/INFO]: Sarh_a180_23 issued server command: //set deepslate_bricks
-[22:12:40] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
-[22:12:40] [Server thread/INFO]: [@: Applied effect Darkness to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[22:12:40] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 25.500000, 70.000000, 0.500000]
-[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Applied effect Nausea to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[22:12:40] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to 0.500000, 70.000000, -24.500000]
-[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:explosion_emitter]
-[22:12:40] [Server thread/INFO]: [@: Teleported Sarh_a180_23 to -24.500000, 70.000000, 0.500000]
-[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:entity.generic.explode to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Played sound minecraft:block.portal.travel to Sarh_a180_23]
-[22:12:40] [Server thread/INFO]: [@: Displaying particle minecraft:cloud]
-[22:12:57] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace stone deepslate_bricks
-[22:13:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[22:13:01] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[22:18:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /effect clear Sarh_a180_23
-[22:18:11] [Server thread/INFO]: [Sarh_a180_23: Removed every effect from Sarh_a180_23]
-[22:18:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[22:18:16] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[22:20:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[22:20:50] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[22:20:52] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[22:20:52] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[22:20:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[22:20:55] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[22:21:00] [Server thread/INFO]: Sarh_a180_23 issued server command: //wand
-[22:21:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[22:21:02] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[22:21:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[22:21:10] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[22:21:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[22:21:13] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[22:21:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[22:21:20] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[22:21:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[22:21:23] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[22:21:28] [Server thread/INFO]: Sarh_a180_23 issued server command: //copy
-[22:21:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[22:21:31] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[22:21:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[22:21:33] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[22:21:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:lobbybienvenida run tp Sarh_a180_23 0 70 0
-[22:21:51] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 70.000000, 0.500000]
-[22:21:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[22:21:54] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[22:21:58] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
-[22:22:10] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
-[22:22:38] [Server thread/INFO]: Sarh_a180_23 issued server command: //rotate 0 90 0
-[22:22:41] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
-[22:23:18] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace deepslate_bricks air
-[22:23:24] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace stone air
-[22:23:56] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace oak_log air
-[22:24:06] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace spruce_stairs air
-[22:24:15] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace barrel air
-[22:24:21] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace tuff air
-[22:24:27] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace andesite air
-[22:24:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace diorite air
-[22:24:38] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace granite air
-[22:25:08] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace coal_ore air
-[22:25:15] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace iron_ore air
-[22:28:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[22:28:49] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[22:29:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[22:29:30] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[22:34:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[22:34:46] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[22:35:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[22:35:46] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[22:42:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[22:42:07] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[22:42:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[22:42:13] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[22:45:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /setworldspawn
-[22:45:58] [Server thread/INFO]: [Sarh_a180_23: Set the world spawn point to -3, 96, -6 [0.0]]
-[22:46:13] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
-[22:46:24] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
-[22:46:27] [Server thread/INFO]: Sarh_a180_23 issued server command: //copy
-[22:46:47] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
-[22:47:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill
-[22:47:29] [Server thread/INFO]: Sarh_a180_23 was killed
-[22:47:29] [Server thread/INFO]: [Sarh_a180_23: Killed Sarh_a180_23]
-[22:48:08] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:lobbybienvenida run tp Sarh_a180_23 0 70 0
-[22:48:08] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 70.000000, 0.500000]
-[22:48:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule spawnRadius 0
-[22:48:21] [Server thread/INFO]: [Sarh_a180_23: Gamerule spawnRadius is now set to: 0]
-[22:48:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule doImmediateRespawn
-[22:48:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule doImmediateRespawn
-[22:48:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule doImmediateRespawn true
-[22:48:39] [Server thread/INFO]: [Sarh_a180_23: Gamerule doImmediateRespawn is now set to: true]
-[22:49:00] [Server thread/INFO]: Sarh_a180_23 issued server command: /setworldspawn
-[22:49:00] [Server thread/INFO]: [Sarh_a180_23: Set the world spawn point to -3, 96, -6 [0.0]]
-[22:49:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill
-[22:49:05] [Server thread/INFO]: Sarh_a180_23 was killed
-[22:49:05] [Server thread/INFO]: [Sarh_a180_23: Killed Sarh_a180_23]
-[22:49:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:lobbybienvenida run tp Sarh_a180_23 0 70 0
-[22:49:12] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 70.000000, 0.500000]
-[22:52:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /tablist reload
-[22:52:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /tablist reload
-[22:53:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp user Sarh_a180_23 parent set default
-[22:53:21] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [U] (sarh_a180_23)
-[22:53:21] [luckperms-command-executor/INFO]: [LP] LOG > parent set default
-[22:55:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /tablist reload
-[22:55:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
-[22:55:49] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
-[22:56:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /up 1
-[22:58:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim
-[22:58:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim edit
-[22:58:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim edit Giro
-[22:58:45] [Server thread/INFO]: Sarh_a180_23 has reached the goal [Strengthened by Fire]
-[23:01:25] [Server thread/INFO]: Animotion You must have at least 2 steps to save animotions!
-[23:02:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /am play Giro
-[23:02:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim
-[23:03:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim edit
-[23:03:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim stop
-[23:06:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[23:06:41] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[23:06:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[23:06:43] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[23:09:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim
-[23:09:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim help
-[23:09:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /animotion:animotion
-[23:09:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /animotion stop Sarh_a180_23
-[23:10:08] [Server thread/INFO]: Sarh_a180_23 issued server command: /animotion delete
-[23:10:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /animotion delete Giro
-[23:10:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /animotion reload
-[23:10:32] [Server thread/INFO]: Sarh_a180_23 issued server command: /animotion edit Giro
-[23:10:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /animotion list
-[23:10:47] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
-[23:10:49] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
-[23:10:49] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:58213] logged in with entity id 1621 at ([world_minecraft_lobbybienvenida]-2.58355351213162, 96.0, -5.173123350216259)
-[23:11:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim edit Giro
-[23:11:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[23:11:36] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[23:11:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[23:11:38] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[23:14:19] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
-[23:14:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[23:14:41] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[23:14:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[23:14:44] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[23:14:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[23:14:46] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[23:14:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[23:14:48] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[23:24:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[23:24:01] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[23:24:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[23:24:04] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[23:24:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
-[23:24:06] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
-[23:24:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
-[23:24:11] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
-[23:27:30] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
-[23:27:32] [User Authenticator #2/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
-[23:27:32] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:49531] logged in with entity id 1638 at ([world_minecraft_lobbybienvenida]-0.6316917117449712, 91.12678306026304, -45.25807618782017)
-[23:27:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /anim play Giro !
+[23:01:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[23:01:19] [Server thread/INFO]: Default game type: SURVIVAL
+[23:01:19] [Server thread/INFO]: Generating keypair
+[23:01:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:01:20] [Server thread/INFO]: Using epoll channel type
+[23:01:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:01:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:01:20] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.16.0/adventure-bom-4.16.0.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/22.0.0/annotations-22.0.0.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.1.0/annotations-24.1.0.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.13.1/adventure-api-4.13.1.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.13.1/adventure-bom-4.13.1.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.13.1/adventure-key-4.13.1.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.pom
+[23:01:21] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.pom
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.pom
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.pom
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.pom
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/option/1.0.0/option-1.0.0.pom
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.pom
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.0/gson-parent-2.8.0.pom
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[23:01:22] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/option/1.0.0/option-1.0.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loading 3 libraries... please wait
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.pom
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.14.0/adventure-bom-4.14.0.pom
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.pom
+[23:01:22] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.14.0/adventure-text-serializer-gson-4.14.0.pom
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-json/4.14.0/adventure-text-serializer-json-4.14.0.pom
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.pom
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.13.0/adventure-api-4.13.0.pom
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.13.0/adventure-bom-4.13.0.pom
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.13.0/adventure-key-4.13.0.pom
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.pom
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.pom
+[23:01:23] [BasicRepositoryConnector-repo.maven.apache.org-1-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[23:01:23] [BasicRepositoryConnector-repo.maven.apache.org-1-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.jar
+[23:01:23] [BasicRepositoryConnector-repo.maven.apache.org-1-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.14.0/adventure-text-serializer-gson-4.14.0.jar
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.14.0/adventure-text-serializer-json-4.14.0.jar
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[23:01:23] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.jar
+[23:01:23] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[23:01:26] [Server thread/WARN]: Legacy plugin EasyWhitelist v1.0.2 does not specify an api-version.
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.pom
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[23:01:26] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/RetoMix/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
+[23:01:26] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.1.1
+[23:01:26] [Server thread/INFO]: [ViaVersion] ViaVersion 5.1.1 is now loaded. Registering protocol transformers and injecting...
+[23:01:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[23:01:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[23:01:27] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[23:01:27] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[23:01:27] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.18+6616-abda4e0
+[23:01:28] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@290cb7d0]
+[23:01:28] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[23:01:28] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[23:01:28] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[23:01:28] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[23:01:28] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[23:01:28] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[23:01:28] [Server thread/INFO]: [floodgate] Took 409ms to boot Floodgate
+[23:01:28] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+[23:01:28] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[23:01:28] [Server thread/INFO]: [MythicMobs] §x§f§f§0§0§0§0M§x§f§f§6§6§0§0y§x§f§f§c§c§0§0t§x§c§b§f§f§0§0h§x§6§5§f§f§0§0i§x§0§0§f§f§0§0c§x§0§0§f§f§6§6 §x§0§0§f§f§c§bE§x§0§0§c§b§f§fn§x§0§0§6§5§f§fa§x§0§0§0§0§f§fb§x§6§6§0§0§f§fl§x§c§c§0§0§f§fe§x§f§f§0§0§c§cd§x§f§f§0§0§6§6!
+[23:01:28] [Server thread/INFO]: [SCore] Loading server plugin SCore v5.24.12.3
+[23:01:28] [Server thread/INFO]: [AnimationsCore] Loading server plugin AnimationsCore v0.1-SNAPSHOT
+[23:01:28] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.58.1
+[23:01:28] [Server thread/INFO]: [CommandPanels] Loading server plugin CommandPanels v3.21.4.3
+[23:01:28] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.17.2
+[23:01:29] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (350 ms).
+[23:01:29] [Server thread/INFO]: [Shopkeepers] Loading config.
+[23:01:29] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[23:01:29] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[23:01:29] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[23:01:29] [Server thread/INFO]: [SternalBoard] Loading server plugin SternalBoard v2.3.0
+[23:01:29] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v17.0.1
+[23:01:29] [Server thread/INFO]: [TradeManager] Loading server plugin TradeManager v1.3.7
+[23:01:29] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.5.3
+[23:01:29] [Server thread/INFO]: [TabList] Loading server plugin TabList v5.7.7
+[23:01:29] [Server thread/INFO]: [CinematicCore] Loading server plugin CinematicCore v0.1-SNAPSHOT
+[23:01:29] [Server thread/INFO]: [SimpleTimer] Loading server plugin SimpleTimer v1.5.2
+[23:01:29] [Server thread/INFO]: [Elevator] Loading server plugin Elevator v3.0.3
+[23:01:29] [Server thread/INFO]: [ServerListPlus] Loading server plugin ServerListPlus v3.5.0
+[23:01:29] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.1-SNAPSHOT
+[23:01:29] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[23:01:29] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[23:01:29] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[23:01:29] [Server thread/INFO]: [Skulls] Loading server plugin Skulls v3.21.0
+[23:01:29] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR4.0.7
+[23:01:29] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
+[23:01:29] [Server thread/INFO]: [EasyWhitelist] Loading server plugin EasyWhitelist v1.0.2
+[23:01:29] [Server thread/INFO]: [ChatManager] Loading server plugin ChatManager v3.7.7
+[23:01:29] [Server thread/INFO]: [ExecutableItems] Loading server plugin ExecutableItems v7.24.12.3
+[23:01:29] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.5.5
+[23:01:29] [Server thread/INFO]: [ServerVariables] Loading server plugin ServerVariables v2.5.3
+[23:01:29] [Server thread/INFO]: [CustomizablePlayerModels] Loading server plugin CustomizablePlayerModels v0.6.17a
+[23:01:29] [Server thread/INFO]: [eShulkerBox] Loading server plugin eShulkerBox v0.6.3
+[23:01:29] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin loading...
+[23:01:29] [Server thread/WARN]: [ShulkerBox] YOU ARE USING FREE eShulkerBox VERSION
+[23:01:29] [Server thread/WARN]: [ShulkerBox] We recommend using the paid version https://builtbybit.com/resources/eshulkerbox.41479/
+[23:01:29] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin loaded in 44ms
+[23:01:29] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.71
+[23:01:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:01:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[23:01:30] [pool-25-thread-1/INFO]: [ShulkerBox] Unable to check for updates: https://api.spigotmc.org/legacy/update.php?resource=-1
+[23:01:30] [Server thread/INFO]:         __    
+[23:01:30] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[23:01:30] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[23:01:30] [Server thread/INFO]: 
+[23:01:30] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[23:01:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[23:01:31] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[23:01:31] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[23:01:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2112ms)
+[23:01:31] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[23:01:32] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[23:01:32] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[23:01:32] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[23:01:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.18+6616-abda4e0
+[23:01:32] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[23:01:32] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[23:01:32] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
+[23:01:33] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[23:01:33] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v17.0.1
+[23:01:33] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[23:01:33] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[23:01:33] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.20.1, number: 20.1
+[23:01:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[23:01:34] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[23:01:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[23:01:34] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[23:01:34] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:01:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
+[23:01:34] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[23:01:34] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR4.0.7
+[23:01:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:01:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:01:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:01:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:01:34] [Server thread/INFO]: Preparing level "world"
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:01:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:01:35] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
+[23:01:35] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[23:01:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:01:36] [Server thread/INFO]: Time elapsed: 277 ms
+[23:01:36] [Server thread/INFO]: [TerraformGenerator] world loaded.
+[23:01:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:01:36] [Server thread/INFO]: Time elapsed: 57 ms
+[23:01:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:01:36] [Server thread/INFO]: Time elapsed: 73 ms
+[23:01:36] [Server thread/INFO]: Preparing start region for dimension minecraft:cinematicas
+[23:01:36] [Server thread/INFO]: Time elapsed: 51 ms
+[23:01:36] [Server thread/INFO]: Preparing start region for dimension minecraft:lobbybienvenida
+[23:01:36] [Server thread/INFO]: Time elapsed: 40 ms
+[23:01:36] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.1.1
+[23:01:36] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[23:01:36] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: ViaVersion
+[23:01:36] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[23:01:37] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[23:01:37] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_minecraft_cinematicas) TNT ignition is PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_minecraft_cinematicas) Lighters are PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_minecraft_cinematicas) Lava fire is PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_minecraft_cinematicas) Fire spread is UNRESTRICTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_minecraft_cinematicas'
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_minecraft_lobbybienvenida) TNT ignition is PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_minecraft_lobbybienvenida) Lighters are PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_minecraft_lobbybienvenida) Lava fire is PERMITTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] (world_minecraft_lobbybienvenida) Fire spread is UNRESTRICTED.
+[23:01:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_minecraft_lobbybienvenida'
+[23:01:37] [Server thread/INFO]: [WorldGuard] Loading region data...
+[23:01:37] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
+[23:01:37] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[23:01:38] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+[23:01:38] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.1)...
+[23:01:38] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[23:01:39] [pool-68-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 29 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
+[23:01:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[23:01:40] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[23:01:41] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[23:01:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enviar la consola al canal asignado TC:『💬』consola(1314391878443077762)
+[23:01:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de LuckPerms
+[23:01:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de PlaceholderAPI
+[23:01:41] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling voice module
+[23:01:41] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythic [5.0.0]
+[23:01:41] [Server thread/INFO]: [MythicMobs] Mythic PlaceholderAPI Support has been enabled!
+[23:01:41] [Server thread/INFO]: [MythicMobs] Mythic ProtocolLib Support has been enabled!
+[23:01:41] [Server thread/INFO]: [MythicMobs] Mythic Vault Support has been enabled!
+[23:01:41] [Server thread/INFO]: [MythicMobs] Mythic WorldGuard Support has been enabled!
+[23:01:42] [Server thread/INFO]: [MythicMobs] Base directory /workspaces/RetoMix/servidor_minecraft/plugins/MythicMobs/data
+[23:01:42] [Server thread/INFO]: [MythicMobs] Module directory /workspaces/RetoMix/servidor_minecraft/plugins/MythicMobs/data/worlds
+[23:01:43] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[23:01:44] [Server thread/INFO]: [MythicMobs] Loading Items...
+[23:01:44] [Server thread/INFO]: [MythicMobs] File ExampleItems.yml not found! Creating a new one...
+[23:01:44] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[23:01:44] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[23:01:44] [Server thread/INFO]: [MythicMobs] File ExampleSkills.yml not found! Creating a new one...
+[23:01:44] [Server thread/INFO]: [MythicMobs] File VanillaMobs.yml not found! Creating a new one...
+[23:01:44] [Server thread/INFO]: [MythicMobs] File ExampleMobs.yml not found! Creating a new one...
+[23:01:44] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[23:01:44] [Server thread/INFO]: [MythicMobs] File ExampleDropTables.yml not found! Creating a new one...
+[23:01:44] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[23:01:44] [Server thread/INFO]: [MythicMobs] File ExampleRandomSpawns.yml not found! Creating a new one...
+[23:01:44] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[23:01:44] [Server thread/INFO]: [MythicMobs] Spawners folder not found! Creating...
+[23:01:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[23:01:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[23:01:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[23:01:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[23:01:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[23:01:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[23:01:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[23:01:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[23:01:44] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[23:01:44] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[23:01:44] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.7.2 ( build ${CI_COMMIT_SHORT_SHA} ) has been successfully loaded!
+[23:01:45] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
+[23:01:45] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
+[23:01:45] [Server thread/INFO]: [SCore] Enabling SCore v5.24.12.3
+[23:01:45] [Server thread/INFO]: ================ SCore ================
+[23:01:45] [Server thread/INFO]: SCore is running on Folia
+[23:01:45] [Server thread/INFO]: SCore is running on Paper or fork
+[23:01:45] [Server thread/INFO]: SCore Version of the server git-Paper-196 (MC: 1.20.1) !
+[23:01:45] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.24.12.3) Load After
+[23:01:45] [Server thread/INFO]: SCore PlaceholderAPI hooked !  (2.11.6)  Load Before
+[23:01:45] [Server thread/INFO]: SCore WorldGuard hooked !  (7.0.9+5934e49)  Load Before
+[23:01:45] [Server thread/INFO]: SCore Vault hooked !  (1.7.3-b131)  Load Before
+[23:01:45] [Server thread/INFO]: SCore ProtocolLib hooked !
+[23:01:45] [Server thread/INFO]: SCore Locale setup: EN
+[23:01:45] [Server thread/INFO]: SCore MythicMobs hooked !  (5.7.2-${CI_COMMIT_SHORT_SHA})  Load Before
+[23:01:45] [Server thread/INFO]: SCore WorldEdit hooked !  (7.2.18+6616-abda4e0)  Load Before
+[23:01:45] [Server thread/INFO]: SCore Language of the editor setup on EN
+[23:01:45] [Server thread/INFO]: SCore Language for in-game messages setup on EN
+[23:01:45] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[23:01:45] [Server thread/INFO]: SCore Connection to the db...
+[23:01:45] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[23:01:45] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
+[23:01:45] [Server thread/INFO]: SCore Creating table Commands if not exists...
+[23:01:45] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
+[23:01:45] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
+[23:01:45] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
+[23:01:45] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
+[23:01:45] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
+[23:01:45] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
+[23:01:45] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
+[23:01:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SCore [1.0.0]
+[23:01:45] [Server thread/INFO]: ================ SCore ================
+[23:01:45] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
+[23:01:45] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Commands' - this is deprecated behavior, please report it to the authors: 
+[23:01:45] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
+[23:01:45] [Server thread/WARN]: Plugin 'AnimationsCore' is creating timing 'Command: animation' - this is deprecated behavior, please report it to the authors: 
+[23:01:45] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[23:01:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.58.1]
+[23:01:45] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.58.1
+[23:01:45] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[23:01:45] [Server thread/INFO]: [CommandPanels] Enabling CommandPanels v3.21.4.3
+[23:01:45] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loading...
+[23:01:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: commandpanels [1.0.0]
+[23:01:45] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.21.4.3 Plugin Loaded!
+[23:01:45] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.17.2
+[23:01:46] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.0
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-legacy
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-plain
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-ansi
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-nbt
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json-legacy-impl
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson-legacy-impl
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-minimessage
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-api
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library examination-api
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-api
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-bukkit
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-facet
+[23:01:46] [Server thread/INFO]: [SternalBoard] Loading library adventure-key
+[23:01:46] [Server thread/INFO]: [TradeManager] Enabling TradeManager v1.3.7
+[23:01:46] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.3
+[23:01:46] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.3 Has Been Enabled!
+[23:01:46] [Server thread/INFO]: [TabList] Enabling TabList v5.7.7
+[23:01:46] [Server thread/INFO]: [TabList] Found PlaceholderAPI version: 2.11.6
+[23:01:46] [Server thread/INFO]: [TabList] v5.7.7 on v1_20_1 (63ms)
+[23:01:46] [Server thread/INFO]: [CinematicCore] Enabling CinematicCore v0.1-SNAPSHOT
+[23:01:46] [Server thread/WARN]: Plugin 'CinematicCore' is creating timing 'Commands' - this is deprecated behavior, please report it to the authors: 
+[23:01:46] [Server thread/INFO]: [CinematicCore] [ACF] Enabled Asynchronous Tab Completion Support!
+[23:01:46] [Server thread/WARN]: Plugin 'CinematicCore' is creating timing 'Command: cinematic rec' - this is deprecated behavior, please report it to the authors: 
+[23:01:46] [Server thread/WARN]: Plugin 'CinematicCore' is creating timing 'Command: cinematic play' - this is deprecated behavior, please report it to the authors: 
+[23:01:46] [Server thread/INFO]: [SimpleTimer] Enabling SimpleTimer v1.5.2
+[23:01:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: simpletimer [1.5.2]
+[23:01:46] [Server thread/INFO]: [SimpleTimer] Successfully Enabled (v1.5.2)
+[23:01:46] [Server thread/INFO]: [SimpleTimer] Xhasi » Thanks for using my plugin
+[23:01:46] [Server thread/INFO]: [SimpleTimer] There is a new version available. (v1.6.0)
+[23:01:46] [Server thread/INFO]: [SimpleTimer] You can download it at: https://www.spigotmc.org/resources/109565/
+[23:01:46] [Server thread/INFO]: [Elevator] Enabling Elevator v3.0.3
+[23:01:46] [Server thread/INFO]: ___________ __                       __                
+[23:01:46] [Server thread/INFO]: \_   _____/|  |   _______  _______ _/  |_  ___________ 
+[23:01:46] [Server thread/INFO]:  |    __)_ |  | _/ __ \  \/ /\__  \\   __\/  _ \_  __ \
+[23:01:46] [Server thread/INFO]:  |        \|  |_\  ___/\   /  / __ \|  | (  <_> )  | \/
+[23:01:46] [Server thread/INFO]: /_______  /|____/\___  >\_/  (____  /__|  \____/|__|   
+[23:01:46] [Server thread/INFO]:         \/           \/           \/                   
+[23:01:46] [Server thread/INFO]: 
+[23:01:46] [Server thread/INFO]: Elevator v3.0.3
+[23:01:46] [Server thread/INFO]: Running on Paper
+[23:01:46] [Server thread/INFO]: Authors: Baktus_79 and Synnelele
+[23:01:46] [Server thread/INFO]: 
+[23:01:46] [Server thread/INFO]: [Elevator] Enabling particles for elevators
+[23:01:46] [Server thread/INFO]: [Elevator] Using SPELL WITCH as particle for elevators
+[23:01:46] [Server thread/INFO]: [Elevator] Enabling particles for teleporters
+[23:01:46] [Server thread/INFO]: [Elevator] Using IRON BLOCK as elevator block
+[23:01:46] [Server thread/INFO]: [Elevator] Using SEA LANTERN as teleporter block
+[23:01:46] [Server thread/INFO]: [Elevator] Using the sound entity.player.levelup on activate elevator
+[23:01:46] [Server thread/INFO]: [Elevator] Using the sound entity.enderman.teleport when using elevator
+[23:01:46] [Server thread/INFO]: [Elevator] Using the sound entity.enderman.teleport when using teleporters
+[23:01:46] [Server thread/INFO]: [Elevator] Successfully hooked into WorldGuard
+[23:01:46] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.5.0
+[23:01:46] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[23:01:46] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[23:01:46] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[23:01:46] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: BukkitConf
+[23:01:46] [Server thread/INFO]: [ServerListPlus] ProtocolLib is no longer required (and used) by default when using Paper. If this causes compatibility issues with other plugins, try setting ProtocolLib: ENABLE
+[23:01:46] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
+[23:01:46] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
+[23:01:46] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.5.0 enabled.
+[23:01:46] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.1-SNAPSHOT
+[23:01:47] [Server thread/INFO]: [Skulls] Enabling Skulls v3.21.0
+[23:01:47] [Server thread/INFO]:  
+[23:01:47] [Server thread/INFO]: =============================
+[23:01:47] [Server thread/INFO]: Skulls v3.21.0 by Tweetzy
+[23:01:47] [Server thread/INFO]: Developer: Kiran Hart
+[23:01:47] [Server thread/INFO]: Skulls » Skulls could not find an economy provider for Vault!
+[23:01:47] [Server thread/INFO]: [FlightCore] Enabling metrics for Skulls
+[23:01:47] [Server thread/INFO]: =============================
+[23:01:47] [Server thread/INFO]:  
+[23:01:47] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
+[23:01:47] [Server thread/INFO]: [EasyWhitelist] Enabling EasyWhitelist v1.0.2*
+[23:01:47] [Server thread/INFO]: EasyWhitelist > Config reloaded.
+[23:01:47] [Server thread/INFO]: E-Whitelist > Loaded!
+[23:01:47] [Server thread/INFO]: [ChatManager] Enabling ChatManager v3.7.7
+[23:01:47] [Server thread/INFO]: [ChatManager] Hooked into: PlaceholderAPI v2.11.6
+[23:01:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chatmanager [3.7.7]
+[23:01:47] [Server thread/INFO]: [ChatManager] Hooked into: Vault v1.7.3-b131
+[23:01:47] [Server thread/INFO]: [ChatManager] Hooked into: LuckPerms v5.4.131
+[23:01:47] [Server thread/INFO]: [ChatManager] Starting Metrics.
+[23:01:47] [Server thread/INFO]: =========================
+[23:01:47] [Server thread/INFO]: Chat Manager
+[23:01:47] [Server thread/INFO]: Version 3.7.7
+[23:01:47] [Server thread/INFO]: Author: H1DD3NxN1NJA
+[23:01:47] [Server thread/INFO]: =========================
+[23:01:47] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.24.12.3
+[23:01:47] [Server thread/INFO]: ================ ExecutableItems ================
+[23:01:49] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 17
+[23:01:49] [Server thread/INFO]: ExecutableItems Items with display conditions :  
+[23:01:49] [Server thread/INFO]: ================ ExecutableItems ================
+[23:01:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ExecutableItems [1.0.0]
+[23:01:49] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.5.5
+[23:01:49] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[23:01:49] [Server thread/INFO]: [ItemEdit] Updating configuration version (7 -> 8)
+[23:01:49] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[23:01:49] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[23:01:49] [Server thread/INFO]: [ItemEdit] Hooking into PlaceHolderAPI
+[23:01:49] [Server thread/INFO]: [ItemEdit] placeholders:
+[23:01:49] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[23:01:49] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[23:01:49] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[23:01:49] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[23:01:49] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[23:01:49] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[23:01:49] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[23:01:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[23:01:49] [Server thread/INFO]: [ItemEdit] Hooking into MythicMobs
+[23:01:49] [Server thread/INFO]: [ItemEdit] # Enabled (took 174 ms)
+[23:01:49] [Server thread/INFO]: [ServerVariables] Enabling ServerVariables v2.5.3
+[23:01:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: servervariables [2.5.3]
+[23:01:49] [Server thread/INFO]: [ServerVariables] Has been enabled! Version: 2.5.3
+[23:01:49] [Server thread/INFO]: [ServerVariables] Thanks for using my plugin!   ~Ajneb97
+[23:01:49] [Server thread/INFO]: [CustomizablePlayerModels] Enabling CustomizablePlayerModels v0.6.17a
+[23:01:49] [Server thread/INFO]: [CustomizablePlayerModels] Customizable Player Models Initialized
+[23:01:49] [Server thread/INFO]: [eShulkerBox] Enabling eShulkerBox v0.6.3
+[23:01:49] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin initializing...
+[23:01:49] [Server thread/INFO]: [ShulkerBox] Initialized 'MessageService'
+[23:01:49] [Server thread/INFO]: [ShulkerBox] Initialized 'CommandService'
+[23:01:50] [Server thread/WARN]: [Item Mechanic] There are no shulker boxes in the shulkerboxes folder!
+[23:01:50] [Server thread/INFO]: [ShulkerBox] Initialized 'ItemMechanic'
+[23:01:50] [Server thread/INFO]: [ShulkerBox] Initialized 'ShulkerBoxMechanic'
+[23:01:50] [Server thread/INFO]: [ShulkerBox] Initialized 'CommandTabListService'
+[23:01:50] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin initialized in 14ms
+[23:01:50] [Server thread/INFO]: [spark] Enabling spark v1.10.71
+[23:01:50] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[23:01:50] [Server thread/INFO]: [spark] Starting background profiler...
+[23:01:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.71]
+[23:01:50] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[23:01:50] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[23:01:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:01:50] [Server thread/INFO]: [Geyser-Spigot] 
+[23:01:50] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.1-b726 (git-master-2019e53)
+[23:01:50] [Server thread/INFO]: [Geyser-Spigot] 
+[23:01:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:01:52] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 4060
+[23:01:52] [Server thread/INFO]: [Geyser-Spigot] Done (2.216s)! Run /geyser help for help!
+[23:01:53] [Server thread/INFO]: Running delayed init tasks
+[23:01:53] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:01:53] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[23:01:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: discordsrv [1.28.0]
+[23:01:53] [Craft Scheduler Thread - 9 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[23:01:53] [Server thread/INFO]: Skulls » Loaded 97395 skulls in 5,660.223ms
+[23:01:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: sbtags [1.0.1]
+[23:01:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[23:01:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[23:01:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
+[23:01:53] [Server thread/INFO]: 4 placeholder hook(s) registered!
+[23:01:53] [Craft Scheduler Thread - 16 - Skulls/INFO]: Skulls » Running database check :)
+[23:01:53] [Craft Scheduler Thread - 9 - Vault/INFO]: [Vault] Checking for Updates ... 
+[23:01:53] [Server thread/INFO]: Done (34.536s)! For help, type "help"
+[23:01:53] [Server thread/INFO]: Timings Reset
+[23:01:53] [Craft Scheduler Thread - 6 - Elevator/INFO]: -----------------------
+[23:01:53] [Craft Scheduler Thread - 6 - Elevator/INFO]: [Elevator] Version 3.0.8 is now available!
+[23:01:53] [Craft Scheduler Thread - 6 - Elevator/INFO]: [Elevator] Download the update at https://www.spigotmc.org/resources/67723
+[23:01:53] [Craft Scheduler Thread - 6 - Elevator/INFO]: -----------------------
+[23:01:53] [Craft Scheduler Thread - 9 - Vault/INFO]: [Vault] No new version available
+[23:01:53] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[23:01:53] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 5.1.1
+[23:01:56] [Craft Scheduler Thread - 16 - Skulls/INFO]: Skulls » Everything looks up-to-date, no issues found. Enjoy!
+[23:02:06] [User Authenticator #0/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[23:02:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[23:02:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[23:02:07] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'CommandPanels' to create a bStats instance!
+[23:02:07] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:41607] logged in with entity id 329 at ([world]0.5060998396437164, 36.0, -5.815025780639008)
+[23:02:27] [Async Chat Thread - #1/INFO]: [Not Secure] ֎ Sarh_a180_23 > afadafa
+[23:02:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp user Sarh_a180_23 parent set admin
+[23:02:41] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [U] (sarh_a180_23)
+[23:02:41] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
+[23:02:42] [Async Chat Thread - #0/INFO]: [Not Secure] ୰ Sarh_a180_23 > asfasf
+[23:08:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta
+[23:08:40] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a title Mensaje de Prueba
+[23:08:40] [Server thread/INFO]: Added tag 'anim.ruleta.verde' to Sarh_a180_23
+[23:09:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta azul @a title
+[23:09:13] [Server thread/INFO]: Added tag 'anim.ruleta.azul' to Sarh_a180_23
+[23:09:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta azul @a actionbar
+[23:09:37] [Server thread/INFO]: Added tag 'anim.ruleta.azul.mini.actionbar' to Sarh_a180_23
+[23:09:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta azul @a scoreboard
+[23:09:58] [Server thread/INFO]: Added tag 'anim.ruleta.azul.mini.scoreboard' to Sarh_a180_23
+[23:10:18] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard reload
+[23:10:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard
+[23:10:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard toggle
+[23:10:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard:sideboard
+[23:10:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard help
+[23:10:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard toggle
+[23:10:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard toggle
+[23:10:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /sternalboard toggle
