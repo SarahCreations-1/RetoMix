@@ -550,3 +550,20 @@ Direct Download: https://get.discordsrv.com
 [04:13:17] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
 [04:13:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:stick{CustomModelData:7}
 [04:13:19] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[04:20:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:gold_nugget{CustomModelData:7}
+[04:20:47] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Gold Nugget] to Sarh_a180_23]
+[04:20:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:gold_nugget{CustomModelData:6}
+[04:20:50] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Gold Nugget] to Sarh_a180_23]
+[04:20:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[04:20:59] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[04:21:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[04:21:11] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[04:21:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /worldguard
+[04:21:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /region
+[04:21:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /region Sarh_a180_23
+[04:21:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /region info
+[04:21:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /region info
+[04:21:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flags -w "world" __global__
+[04:21:59] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[04:22:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flag -w "world" -h 1 __global__ pvp DENY
+[04:22:29] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
