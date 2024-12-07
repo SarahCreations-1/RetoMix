@@ -567,3 +567,4 @@ Direct Download: https://get.discordsrv.com
 [04:21:59] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
 [04:22:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flag -w "world" -h 1 __global__ pvp DENY
 [04:22:29] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[04:35:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /tablist reload
