@@ -65,20 +65,20 @@ animations:
   website:
     interval: 200
     texts:
-    - "&f&o Website"
-    - "&f&o Website"
-    - "&f&o Website"
-    - "&f&o Website"
-    - "&f&o Website"
-    - "&f&o Website"
-    - "&f&o Website"
-    - "&6&o W&f&oebsite"
-    - "&f&o W&6&oe&f&obsite"
-    - "&f&o We&6&ob&f&osite"
-    - "&f&o Web&6&os&f&oite"
-    - "&f&o Webs&6&oi&f&ote"
-    - "&f&o Websi&6&ot&f&oe"
-    - "&f&o Websit&6&oe"
+    - "&f&l Discord"
+    - "&f&l Discord"
+    - "&f&l Discord"
+    - "&f&l Discord"
+    - "&f&l Discord"
+    - "&f&l Discord"
+    - "&f&l Discord"
+    - "&6&l D&f&liscord"
+    - "&f&l D&6&li&f&lscord"
+    - "&f&l Di&6&ls&f&lcord"
+    - "&f&l Dis&6&lc&f&lord"
+    - "&f&l Disc&6&lo&f&lrd"
+    - "&f&l Disco&6&lr&f&ld"
+    - "&f&l Discor&6&ld"
 
   perWorld:
     interval: 300
