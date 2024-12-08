@@ -639,3 +639,12 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [03:12:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /cp kirnt2027
 [03:13:10] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [03:13:10] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:19:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:7}
+[03:19:48] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[03:19:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /cp kirnt2027
+[03:20:14] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:20:15] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:20:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:7}
+[03:20:39] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[03:20:41] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:20:41] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
