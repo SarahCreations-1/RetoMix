@@ -702,3 +702,6 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [04:46:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /customizableplayermodels:cpm setskin Sarh_a180_23
 [04:46:34] [Server thread/INFO]: Sarh_a180_23 issued server command: /cpmclient profile
 [04:46:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /cpm
+[04:47:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /cpmclient
+[04:53:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /cpm setskin -r Sarh_a180_23 nutriachambeadora.cpm
+[04:54:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /cpm scaling entity
