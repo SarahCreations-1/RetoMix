@@ -673,3 +673,19 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [04:16:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /quest create
 [04:17:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /questadmin setstage
 [04:17:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /questadmin give
+[04:27:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /questadmin give
+[04:27:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:7}
+[04:27:26] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[04:27:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /cp kirnt2027
+[04:27:56] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[04:28:51] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[04:29:07] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[04:30:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /quest
+[04:34:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /quest list
+[04:34:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /questlist
+[04:34:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /quest list 1
+[04:36:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /quest actions
+[04:36:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /quest editor
+[04:36:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /questadmin editor
+[04:36:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /pl
+[04:36:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /customizableplayermodels:cpm
