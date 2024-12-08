@@ -202,7 +202,7 @@ MinecraftPlayerJoinMessage:
     Enabled: true
     Color: "#00ff00"
     Author:
-      ImageUrl: "%embedavatarurl%"
+      ImageUrl: "https://media.discordapp.net/attachments/1311898234624544781/1314795408534540397/verde-270.png?ex=67551225&is=6753c0a5&hm=9ac08357ef5b693f69fd9c02a5e3b46ff9ff64a3e08a471feef99f2ceb2e647c&=&format=webp&quality=lossless"
       Name: "%username% Entró al servidor"
       Url: ""
     ThumbnailUrl: ""
@@ -260,7 +260,7 @@ MinecraftPlayerLeaveMessage:
     Enabled: true
     Color: "#ff0000"
     Author:
-      ImageUrl: "%embedavatarurl%"
+      ImageUrl: "https://media.discordapp.net/attachments/1311898234624544781/1314795473852436560/roja-270.png?ex=67551234&is=6753c0b4&hm=7f9d3e24a0ffdb3be920aec6d4cdd6455544145f178819e5c56ea203b3917f2b&=&format=webp&quality=lossless"
       Name: "%username% Salió del servidor"
       Url: ""
     ThumbnailUrl: ""
