@@ -607,3 +607,27 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [02:48:59] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
 [02:49:03] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [02:49:03] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:56:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:7}
+[02:56:50] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[02:56:52] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:56:52] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:57:01] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:57:25] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:57:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /cp kirnt2027
+[03:04:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:7}
+[03:04:28] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[03:04:32] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:04:37] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:04:39] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:04:39] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:04:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:7}
+[03:04:41] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[03:04:42] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:04:44] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:04:50] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[03:04:56] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[03:04:56] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:43207] logged in with entity id 1595 at ([world]-5.058811111047403, 36.0, -1.8166090923903842)
+[03:05:15] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:7}
+[03:05:15] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[03:05:24] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:05:56] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
