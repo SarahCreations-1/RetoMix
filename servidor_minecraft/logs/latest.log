@@ -540,3 +540,51 @@ Direct Download: https://get.discordsrv.com
 [02:12:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /cpr
 [02:12:25] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [02:12:27] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:16:06] [JDA MainWS-ReadThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket (Code 1000). Appending to reconnect queue
+[02:16:09] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[02:16:09] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] [JDA] WebSocket connection was closed and cannot be recovered due to identification issues
+CloseCode(4004 / The account token sent with your identify payload is incorrect.)
+[02:16:09] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[02:16:09] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[02:16:09] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  DiscordSRV was disconnected from Discord because:
+[02:16:09] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  The bot token is invalid
+[02:16:09] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[02:16:09] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[02:16:09] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[02:16:14] [DiscordSRV - Shutdown/WARN]: [DiscordSRV] JDA took too long to shut down, skipping
+[02:16:14] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Apagado completado en 5005ms
+[02:17:53] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:18:03] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:18:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /cpr
+[02:18:37] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:18:48] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:18:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:1}
+[02:18:54] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[02:18:58] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:18:59] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:19:44] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:19:45] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:20:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:3}
+[02:20:10] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[02:20:16] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:20:17] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:20:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:1}
+[02:20:20] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[02:20:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:2}
+[02:20:26] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[02:20:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:3}
+[02:20:27] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[02:20:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:4}
+[02:20:29] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[02:20:32] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:20:33] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:20:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:6}
+[02:20:41] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[02:20:44] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:20:45] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:20:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:7}
+[02:20:49] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
+[02:20:51] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:20:52] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:20:55] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:20:56] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]

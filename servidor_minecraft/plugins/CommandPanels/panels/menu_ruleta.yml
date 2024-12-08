@@ -14,7 +14,7 @@ panels:
       '5':
         material: blaze_rod
         name: Notificaciones
-        customdata: '6'
+        customdata: '7'
         lore:
           - Da clic para ver las notificaciones
       '20':
@@ -31,7 +31,7 @@ panels:
           - Gracias por jugar el servidor
       '24':
         material: blaze_rod
-        customdata: '7'
+        customdata: '6'
         name: Misiones Secundarias
         lore:
           - Da clic para ver las misiones secundarias
