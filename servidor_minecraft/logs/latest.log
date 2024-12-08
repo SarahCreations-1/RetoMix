@@ -670,3 +670,6 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [04:16:19] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [04:16:19] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
 [04:16:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /quest
+[04:16:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /quest create
+[04:17:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /questadmin setstage
+[04:17:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /questadmin give
