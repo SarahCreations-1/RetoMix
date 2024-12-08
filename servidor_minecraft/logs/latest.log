@@ -663,3 +663,5 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [03:40:08] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
 [03:40:24] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [03:40:25] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:48:08] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 stick{CustomModelData:7}
+[03:48:08] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Stick] to Sarh_a180_23]
