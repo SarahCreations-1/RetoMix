@@ -1,14 +1,4 @@
 currentQuests: []
 currentStages: []
-quest-points: 1
-completed-Quests:
-- default1
-completedRedoableQuests:
-- default1
-completedQuestTimes:
-- 1733547204835
-amountsCompletedQuests:
-- default1
-amountsCompleted:
-- 1
+quest-points: 0
 lastKnownName: Sarh_a180_23
