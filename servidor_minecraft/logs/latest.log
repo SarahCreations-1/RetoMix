@@ -119,3 +119,19 @@
 [00:19:02] [Server thread/INFO]: Sarh_a180_23 issued server command: //set deepslate_bricks
 [00:19:14] [Server thread/INFO]: Sarh_a180_23 issued server command: //set deepslate_bricks
 [00:19:20] [Server thread/INFO]: Sarh_a180_23 issued server command: //set deepslate_bricks
+[00:23:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:light
+[00:23:04] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Light] to Sarh_a180_23]
+[00:23:06] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:23:06] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:23:08] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:23:08] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:23:13] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:23:13] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:23:17] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:23:17] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:23:21] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:23:21] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:28:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[00:28:22] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[00:28:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[00:28:33] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
