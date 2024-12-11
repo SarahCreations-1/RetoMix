@@ -387,3 +387,36 @@
 [01:52:53] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
 [01:52:55] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
 [01:52:57] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
+[01:52:59] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
+[01:53:01] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
+[01:53:04] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
+[01:53:17] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
+[01:53:18] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
+[01:53:19] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
+[01:53:30] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
+[01:53:35] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 7
+[01:54:01] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[01:54:01] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[01:54:44] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 7
+[01:54:55] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl dark_oak_log 6
+[01:54:58] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 5
+[01:55:01] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl dark_oak_log 4
+[01:55:03] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 3
+[01:55:05] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl dark_oak_log 2
+[01:55:08] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 1
+[01:56:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
+[01:56:33] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
+[01:56:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
+[01:56:47] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
+[01:57:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
+[01:57:12] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
+[02:01:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /elevator reload
+[02:01:29] [Server thread/INFO]: [Elevator] Enabling particles for elevators
+[02:01:29] [Server thread/INFO]: [Elevator] Using SPELL WITCH as particle for elevators
+[02:01:29] [Server thread/INFO]: [Elevator] Enabling particles for teleporters
+[02:01:29] [Server thread/INFO]: [Elevator] Using EMERALD BLOCK as elevator block
+[02:01:29] [Server thread/INFO]: [Elevator] Using SEA LANTERN as teleporter block
+[02:01:29] [Server thread/INFO]: [Elevator] Using the sound entity.player.levelup on activate elevator
+[02:01:29] [Server thread/INFO]: [Elevator] Using the sound entity.enderman.teleport when using elevator
+[02:01:29] [Server thread/INFO]: [Elevator] Using the sound entity.enderman.teleport when using teleporters
+[02:01:29] [Server thread/INFO]: [Elevator] The config has been reloaded
