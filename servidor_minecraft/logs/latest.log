@@ -28,3 +28,70 @@
 [00:01:03] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [00:01:03] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
 [00:01:08] [Server thread/INFO]: Sarh_a180_23 issued server command: //wand
+[00:02:11] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
+[00:02:21] [Server thread/INFO]: Sarh_a180_23 issued server command: //setbiome minecraft:jungle
+[00:02:28] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[00:02:31] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[00:02:31] [Server thread/INFO]: Sarh_a180_23[/127.171.45.97:46835] logged in with entity id 2319 at ([world_minecraft_cinematicas]-34.3351209163818, 135.6261713440462, -36.223385892561225)
+[00:03:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[00:03:04] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[00:03:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /region define cinematica spawn
+[00:03:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /region info
+[00:03:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flags -w "world_minecraft_cinematicas" cinematica
+[00:03:38] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world_minecraft_cinematicas' have been background saved
+[00:03:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flags -w "world_minecraft_cinematicas" -p 2 cinematica
+[00:03:52] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flags -w "world_minecraft_cinematicas" -p 3 cinematica
+[00:03:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /rg flag -w "world_minecraft_cinematicas" -h 3 cinematica mob-spawning DENY
+[00:04:08] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world_minecraft_cinematicas' have been background saved
+[00:04:15] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill @e[tag=zombie]
+[00:04:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill @e[tag=creeper]
+[00:04:34] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill @e
+[00:04:34] [Server thread/INFO]: Sarh_a180_23 was killed
+[00:04:34] [Server thread/INFO]: [Sarh_a180_23: Killed 393 entities]
+[00:05:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:cinematicas run tp Sarh_a180_23 0 70 0
+[00:05:01] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 70.000000, 0.500000]
+[00:05:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[00:05:12] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[00:05:17] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:05:18] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[00:05:20] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:05:21] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[00:05:31] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:05:31] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[00:05:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode adventure
+[00:05:39] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Adventure Mode]
+[00:05:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[00:05:42] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[00:05:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode adventure
+[00:05:44] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Adventure Mode]
+[00:05:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[00:05:47] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[00:06:06] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 15
+[00:06:10] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 17
+[00:06:18] [Server thread/INFO]: Sarh_a180_23 issued server command: //cyl air 19
+[00:06:34] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl stone 19
+[00:06:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[00:06:43] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[00:07:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /cinematic rec
+[00:07:11] [Server thread/ERROR]: [CinematicCore] [ACF] Missing Language Key: acf-core.invalid_syntax
+[00:07:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /cinematic rec spawn
+[00:07:25] [Server thread/ERROR]: [CinematicCore] [ACF] Missing Language Key: acf-core.invalid_syntax
+[00:07:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /cinematic rec spawn 10
+[00:08:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /cinematic play Sarh_a180_23 spawn
+[00:08:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[00:08:42] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[00:08:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /cinematic play Sarh_a180_23 spawn
+[00:09:56] [Server thread/INFO]: Sarh_a180_23 issued server command: /cinematic play @a spawn
+[00:09:56] [Server thread/ERROR]: [CinematicCore] [ACF] Missing Language Key: acf-minecraft.is_not_a_valid_name
+[00:10:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /cinematic play ! spawn
+[00:10:02] [Server thread/ERROR]: [CinematicCore] [ACF] Missing Language Key: acf-minecraft.is_not_a_valid_name
+[00:10:07] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:10:08] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[00:10:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /execute in minecraft:overworld run tp 0 37 0
+[00:10:36] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.500000, 37.000000, 0.500000]
+[00:11:23] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks
+[00:11:26] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 18
+[00:11:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /undo
+[00:11:36] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 5
+[00:11:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /undo
+[00:11:44] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 6
