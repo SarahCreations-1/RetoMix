@@ -1748,3 +1748,7 @@
 [2024-12-10 23:22:05] [INFO   ] Java 14+ detected. 
 [2024-12-10 23:22:05] [INFO   ]  Injection success! Proceeding with generation. 
 [2024-12-10 23:22:06] [INFO   ]  world loaded. 
+[2024-12-10 23:58:29] [INFO   ] Will spawn stronghold at: 1407, -5 
+[2024-12-10 23:58:29] [INFO   ] Spawning MossyCavePopulator at -208,-20,130 
+[2024-12-10 23:58:29] [INFO   ] Spawning CaveFluidClusterPopulator at -193,2,157 
+[2024-12-10 23:58:29] [INFO   ] Spawning DeepCavePopulator at -208,-34,165 
