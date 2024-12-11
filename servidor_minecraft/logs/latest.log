@@ -95,3 +95,27 @@
 [00:11:36] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 5
 [00:11:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /undo
 [00:11:44] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 6
+[00:11:58] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl dark_oak_log 5
+[00:12:04] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 4
+[00:12:07] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl dark_oak_log 3
+[00:12:17] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl deepslate_bricks 2
+[00:12:20] [Server thread/INFO]: Sarh_a180_23 issued server command: //hcyl dark_oak_log 1
+[00:13:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[00:13:07] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[00:13:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata_fogata
+[00:13:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[00:13:27] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[00:13:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[00:13:33] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[00:13:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[00:13:38] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[00:13:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[00:13:43] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[00:13:54] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:13:54] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[00:18:35] [Server thread/INFO]: Sarh_a180_23 issued server command: //wand
+[00:18:52] [Server thread/INFO]: Sarh_a180_23 issued server command: //set deepslate_bricks
+[00:18:57] [Server thread/INFO]: Sarh_a180_23 issued server command: //set deepslate_bricks
+[00:19:02] [Server thread/INFO]: Sarh_a180_23 issued server command: //set deepslate_bricks
+[00:19:14] [Server thread/INFO]: Sarh_a180_23 issued server command: //set deepslate_bricks
+[00:19:20] [Server thread/INFO]: Sarh_a180_23 issued server command: //set deepslate_bricks
