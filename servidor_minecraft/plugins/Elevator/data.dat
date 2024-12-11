@@ -13,3 +13,45 @@ Teleporters:
     World: world
     Player: 180e43ea-7bdf-3837-8381-a01a433c062c
     Destination: TP1
+  TP3:
+    X: -21.0
+    Y: 35.0
+    Z: 0.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP4
+  TP4:
+    X: -1.0
+    Y: 45.0
+    Z: 0.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP3
+  TP5:
+    X: 0.0
+    Y: 35.0
+    Z: 21.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP6
+  TP6:
+    X: 0.0
+    Y: 45.0
+    Z: 1.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP5
+  TP7:
+    X: 21.0
+    Y: 35.0
+    Z: 0.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP8
+  TP8:
+    X: 1.0
+    Y: 45.0
+    Z: 0.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP7
