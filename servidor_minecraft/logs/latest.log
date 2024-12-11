@@ -135,3 +135,22 @@
 [00:28:22] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
 [00:28:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [00:28:33] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[00:32:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
+[00:32:50] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
+[00:35:27] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:35:30] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:35:31] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:35:31] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[00:35:35] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:35:35] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[00:35:37] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:35:39] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:35:41] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[00:35:42] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:35:43] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[00:36:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /pl
+[00:39:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a title
+[00:39:59] [Server thread/INFO]: Added tag 'anim.ruleta.verde' to Sarh_a180_23
+[00:40:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta verde @a title
+[00:40:27] [Server thread/INFO]: Added tag 'anim.ruleta.verde' to Sarh_a180_23
+[00:41:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /tellraw Sarh_a180_23 1241
