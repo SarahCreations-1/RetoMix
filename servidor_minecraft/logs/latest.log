@@ -194,3 +194,19 @@
 [00:50:15] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
 [00:50:18] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [00:50:18] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[00:55:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta azul @a title
+[00:55:24] [Server thread/INFO]: Added tag 'anim.ruleta.azul' to Sarh_a180_23
+[00:55:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta morada @a title
+[00:55:49] [Server thread/INFO]: Added tag 'anim.ruleta.morada' to Sarh_a180_23
+[00:56:18] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[00:56:19] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[00:59:15] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce disable event1
+[00:59:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta
+[00:59:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta amarilla @a title
+[00:59:57] [Server thread/INFO]: Added tag 'anim.ruleta.amarilla' to Sarh_a180_23
+[01:00:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta roja @a title
+[01:00:20] [Server thread/INFO]: Added tag 'anim.ruleta.roja' to Sarh_a180_23
+[01:01:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[01:01:45] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[01:01:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[01:01:51] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]

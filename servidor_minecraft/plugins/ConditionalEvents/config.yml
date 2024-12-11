@@ -58,3 +58,4 @@ Events:
     actions:
       default:
       - 'to_all: message: &e&l[ALERT] &f&lAjneb joined the game!'
+    enabled: false
