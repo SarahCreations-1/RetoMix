@@ -226,3 +226,5 @@
 [01:08:34] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
 [01:10:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
 [01:10:51] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[01:13:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[01:13:42] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
