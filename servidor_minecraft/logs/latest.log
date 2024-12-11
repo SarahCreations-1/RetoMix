@@ -420,3 +420,16 @@
 [02:01:29] [Server thread/INFO]: [Elevator] Using the sound entity.enderman.teleport when using elevator
 [02:01:29] [Server thread/INFO]: [Elevator] Using the sound entity.enderman.teleport when using teleporters
 [02:01:29] [Server thread/INFO]: [Elevator] The config has been reloaded
+[02:10:15] [Server thread/INFO]: Sarh_a180_23 issued server command: /elevator
+[02:10:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /elevator help
+[02:10:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /elevator:teleporter add
+[02:10:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /elevator:teleporter add
+[02:10:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:10:38] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:10:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:10:42] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:10:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /elevator:teleporter add
+[02:10:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /elevator:teleporter link
+[02:11:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /elevator:teleporter add
+[02:11:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /elevator:teleporter help
+[02:11:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /elevator:teleporter link tp1 tp2

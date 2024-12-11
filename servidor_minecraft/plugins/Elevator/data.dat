@@ -1,1 +1,15 @@
-Teleporters: {}
+Teleporters:
+  TP1:
+    X: 0.0
+    Y: 35.0
+    Z: -21.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP2
+  TP2:
+    X: 0.0
+    Y: 45.0
+    Z: -1.0
+    World: world
+    Player: 180e43ea-7bdf-3837-8381-a01a433c062c
+    Destination: TP1
