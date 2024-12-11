@@ -228,3 +228,43 @@
 [01:10:51] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
 [01:13:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [01:13:42] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[01:29:30] [Server thread/INFO]: Sarh_a180_23 issued server command: //wand
+[01:29:48] [Server thread/INFO]: Sarh_a180_23 issued server command: //copy
+[01:29:56] [Server thread/INFO]: Sarh_a180_23 issued server command: //rotate 90 0 0
+[01:30:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[01:30:06] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[01:30:14] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:30:19] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:30:25] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:30:27] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:30:31] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:30:34] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:30:37] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:30:41] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:30:43] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:30:49] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:30:52] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:30:55] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:30:57] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:31:00] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:31:02] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:31:04] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:31:06] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:31:17] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[01:31:17] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[01:31:35] [Server thread/INFO]: Sarh_a180_23 issued server command: //rotate 90 0 0
+[01:31:40] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[01:31:40] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[01:31:43] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:31:46] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:31:49] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:31:51] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:31:54] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:31:57] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:31:59] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:32:06] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:32:08] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:32:11] [Server thread/INFO]: Sarh_a180_23 issued server command: //undo
+[01:32:13] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[01:32:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[01:32:19] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
